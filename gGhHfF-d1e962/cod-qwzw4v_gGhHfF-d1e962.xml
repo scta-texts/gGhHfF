@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 3</title>
+            <author ref="#per-sdv3av">Marcantonio Zimara</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 3</title>
+               <date when="2021-02-15">February 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="482-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gGhHfF-d1e962">
+            <head xml:id="gGhHfF-d1e962-Hd1e104">Liber 3</head>
+            <p xml:id="gGhHfF-d1e962-d1e107">
+               <lb ed="#J" n="5"/>SOLVTIONES 
+      <lb ed="#J" n="6"/>contradictionum in dictis 
+      <lb ed="#J" n="7"/>Arist. &amp; Auerrois, 
+      <lb ed="#J" n="8"/>Super Tertio Physicorum. 
+    </p>
+            <div xml:id="gGhHfF-d1e962-Dd1e118">
+               <head xml:id="gGhHfF-d1e962-Hd1e120">Contradictio 1</head>
+               <p xml:id="gGhHfF-d1e962-d1e123">
+                  <lb ed="#J" n="9"/>PRima contradictio est in tex. 1. 
+        <lb ed="#J" n="10"/>Aris enim habet quod infinitum pri 
+        <lb ed="#J" n="11"/>mum apparet in continuo. Sed  
+        <lb ed="#J" n="12"/>lobuiabam. quia primo poste. 
+        <lb ed="#J" n="13"/>litex. I. in illo cap. Certior autem 
+        <lb ed="#J" n="14"/>scientia altera, altera est, &amp; prior, videtur 
+        <lb ed="#J" n="15"/>Arist velle quod scientia illa, quae de simplicio 
+        <lb ed="#J" n="16"/>ribus principiis est, illa est natura prior, 
+        si<lb ed="#J" n="17" break="no"/>tur Arithmetica, Ceometria. Nam Arithme 
+        <lb ed="#J" n="18"/>tica est de vnitate, quae est principium nume 
+        <lb ed="#J" n="19"/>ri, Se ometria vera de puncto, quod est prin 
+        <lb ed="#J" n="20"/>cipium magnitudinis. vnitas autem 
+        simplici<lb ed="#J" n="21" break="no"/>ter est, quia vnitas situ caret: punctus autem 
+        <lb ed="#J" n="22"/>est substantia posita, vt ibi dicitur. Et ex hoc 
+        <lb ed="#J" n="23"/>videtur quod quando eadem accidentia 
+        com<lb ed="#J" n="24" break="no"/>petunt indifferenter quantitati continua 
+        <lb ed="#J" n="25"/>&amp; discretae, eadem prius natura conueniunt 
+        di<lb ed="#J" n="26" break="no"/>scretae quae continuae. cum igitur infinitudo 
+        <lb ed="#J" n="27"/>inueniatur in numeris &amp; in 
+        magnitudini<lb ed="#J" n="28" break="no"/>bus, quia sicut magnitudo est diuisibilis in  
+        <lb ed="#J" n="29"/>infinitum, sic numerus est augmentabilis in  
+        <lb ed="#J" n="30"/>infinitum, videtur quod infinitudo prius natura 
+        <lb ed="#J" n="31"/>competit numeris quae continuis. &amp; confit ma 
+        <lb ed="#J" n="32"/>tur. quia. i. phy. tex. com. 13. infiniti ratio 
+        con<lb ed="#J" n="33" break="no"/>gruit quantitati. idem. 3. phy. tex. com. 3s. &amp;. 36. 
+        <lb ed="#J" n="34"/>Nisi esset quod vt dicit Alex. &amp; Them. ideo 
+        in<lb ed="#J" n="35" break="no"/>finitum primum dicitur apparere in continuo, quae in 
+        <lb ed="#J" n="36"/>discreto, quia in definitione continui pon 
+        <lb ed="#J" n="37"/>tur infinitum, non autem in definitione difere 
+        <lb ed="#J" n="38"/>i. nam continuum est, quod diuiditur in 
+        infini<lb ed="#J" n="39" break="no"/>tum: non sic autem est de discreto. Aut quia 
+        <lb ed="#J" n="40"/>cum. discretum causetur ex diuisione 
+        con<lb ed="#J" n="41" break="no"/>tinui: sicut enim continuum est diuisibile in in 
+        <lb ed="#J" n="42"/>finitum, sic discretum est augmentabile in in 
+        <lb ed="#J" n="43"/>finitum. non enim discretum est ciuisibile in 
+        infi<lb ed="#J" n="44" break="no"/>nitum, nec augmentabile est continuum in 
+        in<lb ed="#J" n="45" break="no"/>finitum. 3. phy. te. com. So. &amp; quia ex hoc, quod com 
+        <lb ed="#J" n="46"/>tinuum est diuisibile in infinitum, ex hoc discre 
+        <lb ed="#J" n="47"/>tum est augmentabile in infinitum, numerus enim 
+        <lb ed="#J" n="48"/>causatur ex diuisione continui, vt dicitur in 3. 
+        phy<lb ed="#J" n="49" break="no"/>ideo dictum est infinitum primo apparere in 
+        <lb ed="#J" n="50"/>continuo, &amp; hoc pecipue locum habet secundum natura 
+        <lb ed="#J" n="51"/>lem consyderationem asserentem numerum causari 
+        <lb ed="#J" n="52"/>ex diuisione continui, sicut iam Arist. hic 
+        lo<lb ed="#J" n="53" break="no"/>quitur sed secundum mathematicam consyderationem, 
+        <!--Averroes_Physica_JuntSecunda_04-0972.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="54"/>quae est secundum abstractionem, &amp; imaginationem, 
+        <lb ed="#J" n="55"/>credo quod infinitudo, &amp; alia huiusmodi accidentia 
+        <lb ed="#J" n="56"/>ommunia vtrique &amp; continuo &amp; discreto, ex parte, 
+        <lb ed="#J" n="57"/>qua sunt quanta, prius natura participari a 
+        di<lb ed="#J" n="58" break="no"/>screto quam a continuo, si quantum dicitur analogice, 
+        <lb ed="#J" n="59"/>aut saltem aequalilitur, si vniuoce dicatur sed, quia secundum 
+        <lb ed="#J" n="60"/>consyderationem naturalem quantitas discreta, quae 
+        <lb ed="#J" n="61"/>est numerus, causatur ex diuisione continui, sic 
+        <lb ed="#J" n="62"/>infiitudo inuenitur in numero prper continuum, 
+        <lb ed="#J" n="63"/>saltem in gnere causae materialis. Sed Arithme 
+        <lb ed="#J" n="64"/>ticus, qui natura praecedit Geometram, non  
+        <lb ed="#J" n="65"/>consyderat istam rationem numeri, qui est 
+        sube<lb ed="#J" n="66" break="no"/>ctum eius, inquantum a continuo habet causari, 
+        <lb ed="#J" n="67"/>quia ista ratio sibi est extranea, inquantum 
+        <lb ed="#J" n="68"/>est subiectum suae consyderationis: alioquin 
+        <lb ed="#J" n="69"/>scientia Arithmeticae natura esset posterior 
+        <lb ed="#J" n="70"/>Oeometria, &amp; praesupponeret illam: quod tamen 
+        <lb ed="#J" n="71"/>falsum est. Nec videatur tibi mirum hoc, quia 
+        <lb ed="#J" n="72"/>multa hibunt verificari secundum naturalem 
+        consyde<lb ed="#J" n="73" break="no"/>rationem, quorum opposita sunt vera secundum 
+        con<lb ed="#J" n="74" break="no"/>syderationem mathematicam, sicut dicit Com. 
+        <lb ed="#J" n="75"/>i. I. coeli. com. 32. quod motui circulari nihil est 
+        <lb ed="#J" n="76"/>contrarium naturaliter, &amp; tamen potest esse 
+        <lb ed="#J" n="77"/>contrarietas in motibus eircularibus mathe 
+        <lb ed="#J" n="78"/>matice, &amp; secundum imaginationem. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e283">
+               <head xml:id="gGhHfF-d1e962-Hd1e285">Contradictio 2</head>
+               <p xml:id="gGhHfF-d1e962-d1e288">
+                  <lb ed="#J" n="79"/>Secunda contradi. eit super eodem te. Aris. 
+        <lb ed="#J" n="80"/>in principio. 3. physi. dicit quod sicut Naturalis 
+        <lb ed="#J" n="81"/>consyderate det de motu, quia motus ponitr 
+        <lb ed="#J" n="82"/>in definitione naturae, eadem ratione, quia motus 
+        <lb ed="#J" n="83"/>videtur esse de gneratione continuorum. Naturalis 
+        <lb ed="#J" n="84"/>dent considerare de continuo. vbi Themistius 
+        <lb ed="#J" n="85"/>expresse dicit quod continuum assumitur in defini 
+        <lb ed="#J" n="86"/>tione motus. &amp; ita etiam videtur dicere Com. in 
+        <lb ed="#J" n="87"/>com. I. &amp; clarius in sua media expositione, vbi 
+        <lb ed="#J" n="88"/>continuando intentionem Philosophi dicit, quod  
+        <lb ed="#J" n="89"/>quia in definitione naturae posuimus 
+        mo<lb ed="#J" n="90" break="no"/>tum, oportet loqui de motu. definientis enim 
+        in<lb ed="#J" n="91" break="no"/>terest declarare partes definitionis, &amp; de 
+        <lb ed="#J" n="92"/>passionibus partium. cum autem in definitione 
+        <lb ed="#J" n="93"/>motus apparet continuum, &amp; continuum 
+        conse<lb ed="#J" n="94" break="no"/>quitur infinitum, quare etiam de continuo &amp; 
+        in<lb ed="#J" n="95" break="no"/>finito loqui det Naturalis. videtur igitur quod con 
+        <lb ed="#J" n="96"/>tinuum sit de quiditate motus. Ex aduerso autem 
+        <lb ed="#J" n="97"/>videtur esse authoritas ipsius Com. in. 4. phy. in 
+        <lb ed="#J" n="98"/>com. 39. vbi dicit quod vnum accidentium 
+        nio<lb ed="#J" n="99" break="no"/>tus est continuatio. Amplius est ratio. Si enim 
+        <lb ed="#J" n="100"/>continuatio esset de quiditate motus, 
+        qui<lb ed="#J" n="101" break="no"/>libet motus esset continuus. quia quod per  
+        <lb ed="#J" n="102"/>se competit superiori, &amp; primo, competit 
+        <lb ed="#J" n="103"/>pibus inferioribus per se, licet non primo, si 
+        <lb ed="#J" n="104"/>ue sit vniuocum, siue analogum: sed non 
+        quili<lb ed="#J" n="105" break="no"/>bet motus est continuus, vt patet. 3. phiy. com. &amp; 
+        <lb ed="#J" n="106"/>&amp;. 6. phy. com. 23. igitur continuum non est de 
+        <lb ed="#J" n="107"/>quiditate motus. Amplius videtur esse autno 
+        <lb ed="#J" n="108"/>titas Philosophi in. 3. meta. in ca. de quanto. 
+        <lb ed="#J" n="109"/>te. com. I6. quod quantitas, &amp; diuisibilitas, &amp; com¬ 
+        <!--Averroes_Physica_JuntSecunda_04-0973.xml-->
+        <pb ed="#J" n="483-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>tinuatio accidunt motui. Dicimus, sine prae 
+        <lb ed="#J" n="2"/>iudicio melioris sententiae, quod motus quidi
+      </p>
+               <p xml:id="gGhHfF-d1e962-d1e369">
+                  <lb ed="#J" n="3"/>Solutio. 
+        <lb ed="#J" n="4"/>tatiue non includit contintium, licet videatur 
+        <lb ed="#J" n="5"/>continuatio esse de accidentibus 
+        consequen<lb ed="#J" n="6" break="no"/>tibus substantiam eius. &amp; ideo videtur mihi, quod 
+        <lb ed="#J" n="7"/>Com. in. 3. phy. in com. 2. animaduerres ad ea, quae 
+        <lb ed="#J" n="8"/>paulem ante dixi, inquit, quod illorum, quae 
+        conse<lb ed="#J" n="9" break="no"/>quuntur motum, quae sunt, propinqua substantiae eius 
+        <lb ed="#J" n="10"/>est continuum. vndem non dixit absolute continuum 
+        <lb ed="#J" n="11"/>esse de substantia motus, sed de his, quae simi 
+        <lb ed="#J" n="12"/>propinqua substantiae eius, quia, quando vera ge 
+        <lb ed="#J" n="13"/>nera &amp; verae rerum diriae latent, licet nobis cit 
+        <lb ed="#J" n="14"/>cumloqui illa per proprietates &amp; accidentia, 
+        <lb ed="#J" n="15"/>sicut dicit Com in. 7. meta. in com. 42. &amp;. R. me 
+        <lb ed="#J" n="16"/>ta. com. 3. contra Alex. &amp; ideo dicimus nos quod 
+        <lb ed="#J" n="17"/>contrarium cadit in descriptione motus, non 
+        <lb ed="#J" n="18"/>quod illa sit vera definitio. vnde Alexam. in. I. Iib 
+        <lb ed="#J" n="19"/>naturalium quaestionum quaestione xi. exprel 
+        <lb ed="#J" n="20"/>se determinat motum per se non este quan 
+        <lb ed="#J" n="21"/>titatem, sed secundum diuersas considerationes 
+        spe<lb ed="#J" n="22" break="no"/>ctare posse ad diuersa praedicamenta, vt po 
+        <lb ed="#J" n="23"/>teris ibi clare videre. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e418">
+               <head xml:id="gGhHfF-d1e962-Hd1e420">Contradictio 3</head>
+               <p xml:id="gGhHfF-d1e962-d1e423">
+                  <lb ed="#J" n="24"/>Tertia contradi. est in tex. 3. Arist. diuidit 
+        <lb ed="#J" n="25"/>ens per ens in actu tantum, &amp; per ens in 
+        actu<lb ed="#J" n="26" break="no"/>&amp; potentia simul. postea diuidit ens actu 
+        <lb ed="#J" n="27"/>decem praedicamenta. Ex hac igitur diuisione vi 
+        <lb ed="#J" n="28"/>detur quod ens in potentia non diuidatur in 
+        de<lb ed="#J" n="29" break="no"/>cem praedicamenta, sed ens actu solum. Ex 
+        <lb ed="#J" n="30"/>aduerso autem videtur esse sententia 
+        Philoso<lb ed="#J" n="31" break="no"/>phi in. 12. met. tex. com. 236. vbi vult quod potentia 
+        <lb ed="#J" n="32"/>&amp; actus sunt principia omnium decem 
+        praedica<lb ed="#J" n="33" break="no"/>mentorum: &amp;, cum hoc est authoritas Com. in 
+        <lb ed="#J" n="34"/>i. de anima. com. 6. vbi scribit quod potentia &amp; 
+        <lb ed="#J" n="35"/>actus sunt dicituriae entis valde oppositae, &amp; 
+        cir<lb ed="#J" n="36" break="no"/>cuunt omne genus praedicamenti Soluitur, 
+        <lb ed="#J" n="37"/>nam vt recitat Simplicius in. 3. phy. si in 
+        prae<lb ed="#J" n="38" break="no"/>senti loco, sunt circa hoc duae expositiones 
+        <lb ed="#J" n="39"/>prima est Alex. &amp; Them. qui sequentes 
+        an<lb ed="#J" n="40" break="no"/>tiquam seriem textus, qui communiter inueniebatur 
+        <lb ed="#J" n="41"/>exponunt quod entium quaedam sunt actu tantum, 
+        <lb ed="#J" n="42"/>sicut sunt res materia carentes, vt sunt abstra 
+        <lb ed="#J" n="43"/>ctae substantiae, quae semper eodem modo se habent 
+        <lb ed="#J" n="44"/>&amp; mutari non possunt, quaedam vero sunt compo 
+        <lb ed="#J" n="45"/>sita ex potentia &amp; actu, vt sunt gnerabilia, &amp;  
+        <lb ed="#J" n="46"/>corruptibilia. coelum autem quodammmodo est 
+        <lb ed="#J" n="47"/>actu, pro qua nto secundum substantiam transmutari 
+        <lb ed="#J" n="48"/>non pont, &amp; quodammodo in potentia est, 
+        in<lb ed="#J" n="49" break="no"/>quantum localitur moueri pont, &amp; idem secundum 
+        <lb ed="#J" n="50"/>se totum vbique esse non pot. &amp; istius etiam 
+        opi<lb ed="#J" n="51" break="no"/>nionis est Com. in lib. de substan. orbis, &amp;. i. cae 
+        <lb ed="#J" n="52"/>li in paraphrasi in summa. 6. iuxta 
+        princi<lb ed="#J" n="53" break="no"/>pium. sporphyrius istam expositionem non 
+        ad<lb ed="#J" n="54" break="no"/>mittit, sed vult diuisionem dari per actum &amp; 
+        <lb ed="#J" n="55"/>potentiam, quod confirmat ex his, quae repetit 
+        <lb ed="#J" n="56"/>ge reaslumit Philosophus intra in eodem 
+        lo<lb ed="#J" n="57" break="no"/>o inte. cem. 6. vbi dicit. Diuisio autem vnoquoque 
+        <!--Averroes_Physica_JuntSecunda_04-0973.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="58"/>gnerum per potentiam &amp; actum. &amp; vult quod ensia 
+        <lb ed="#J" n="59"/>actu diuidatur per decem praedicamenta, non  
+        <lb ed="#J" n="60"/>ens in potentia, quia ens in potentia non 
+        di<lb ed="#J" n="61" break="no"/>citur decem modis, sicunt ens in actu, immo 
+        eni<lb ed="#J" n="62" break="no"/>in potentia tantum non dicitur nisi vno modo tantum. 
+        <lb ed="#J" n="63"/>videlicet de prima materia omnium. Sed nec 
+        <lb ed="#J" n="64"/>ista expositio Porphyri, soluit contradictio 
+        <lb ed="#J" n="65"/>nem, propositam, nec vera esse videtur tum quia sibi 
+        <lb ed="#J" n="66"/>ipsi contradicit, quia primo dicit ens in poten 
+        <lb ed="#J" n="67"/>ua non diuidi in decem pdicamenta, &amp; tme ad 
+        <lb ed="#J" n="68"/>ducit dictum Arist. in tex. 6. quod continet 
+        op<lb ed="#J" n="69" break="no"/>positum. quia d. Diuisio secundum vnunquod purod 
+        <lb ed="#J" n="70"/>generum per potentiam &amp; actum. Amplius 
+        con<lb ed="#J" n="71" break="no"/>tradicit antiquae literae, quae communiter sic iacet. 
+        <lb ed="#J" n="72"/>Eorum quae suut, quaedam sunt actu tantum, quaedam 
+        <lb ed="#J" n="73"/>vero potentia &amp; actu. horum autem aliud est hoc 
+        <lb ed="#J" n="74"/>aliquid, aliud tameu, &amp; aliud tale. vbi 
+        manife<lb ed="#J" n="75" break="no"/>ste patet quod per illa notam exclusionis, tandum, contra 
+        <lb ed="#J" n="76"/>diuidtur id, quod est in actu tamdum, contra id, quod 
+        <lb ed="#J" n="77"/>siniul est in potentia &amp; in actu. alioquiu, si 
+        <lb ed="#J" n="78"/>diuiditur ens per actum &amp; potentiam, quid igitur, 
+        <lb ed="#J" n="79"/>de seruit illi diuisioni illa exolusionis nota:s 
+        <lb ed="#J" n="80"/>Dico igitur quod Arist. quandoque consueuit ens 
+        diui<lb ed="#J" n="81" break="no"/>dere per potentiam &amp; actum, sicut fecit in. 9. 
+        pri<lb ed="#J" n="82" break="no"/>mae philosophiae. sed illa diuisio est entis sen 
+        <lb ed="#J" n="83"/>sibilis, vt dicit Com. in. 7. meta. in procemio, 
+        <lb ed="#J" n="84"/>quod scientia Diuina diuiditur in tres partes. 
+        <lb ed="#J" n="85"/>in prima agitur de diuisioue entis in 
+        substan<lb ed="#J" n="86" break="no"/>tiam &amp; accidens. in secunda de diuisione en 
+        <lb ed="#J" n="87"/>tis per potentiam, &amp; actum. in tertia de 
+        diuifio<lb ed="#J" n="88" break="no"/>ne entis per vnum &amp; multa. Et, quia substantia 
+        <lb ed="#J" n="89"/>alia sensibilis, alia abstracta, de substantia 
+        <lb ed="#J" n="90"/>sensibili tractat in. 7. &amp;. S. met. deinde in S. 
+        <lb ed="#J" n="91"/>agit de potentia &amp; actu. 3. in decimo agit de 
+        <lb ed="#J" n="92"/>vno &amp; multo. postea in 12. tractat de 
+        substan<lb ed="#J" n="93" break="no"/>tul separales &amp; numero eorum, qui est duode 
+        <lb ed="#J" n="94"/>cimus apud nos. vbi paret illas diuisiones in  
+        <lb ed="#J" n="95"/>libris praecedentibus librum duodecimum este 
+        <lb ed="#J" n="96"/>respectu substantiarum fensibilium. Vnde in 
+        <lb ed="#J" n="97"/>9. meta. tex com. 17. dicitur quod nullum 
+        sempiter<lb ed="#J" n="98" break="no"/>num est in potentia. &amp; confirmatur 
+        authorira<lb ed="#J" n="99" break="no"/>te Com. in. 12. met. com. S. vbi Ari. volens decla 
+        <lb ed="#J" n="100"/>rare quod esse sit esse materiae, diuidit ens per po 
+        <lb ed="#J" n="101"/>tentiam. &amp; actum &amp; Alex. dicit quod hoc fuit decla 
+        <lb ed="#J" n="102"/>ratum in nono trac. in quo loquitur de potentia 
+        <lb ed="#J" n="103"/>&amp; actu. &amp; intendebat per hoc, quod in hoc tra 
+        <lb ed="#J" n="104"/>ctatu demtrat, potentiam ocedere actum, &amp; 
+        di<lb ed="#J" n="105" break="no"/>cit impossibia contingentia ad negantes 
+        poten<lb ed="#J" n="106" break="no"/>tiam esse. ecce igitur quod potentia, quae cum actu 
+        <lb ed="#J" n="107"/>condiuidit ens in nono, est illa, quae est 
+        an<lb ed="#J" n="108" break="no"/>te actum: talis autem non est, nisi in rebus gnabi 
+        <lb ed="#J" n="109"/>libus &amp; corruptibilibus. vnde omne ens in 
+        podi<lb ed="#J" n="110" break="no"/>camento existens, est quandoque in potentia &amp; quam 
+        <lb ed="#J" n="111"/>doque in actu. &amp; ideo actus &amp; potentia sunt 
+        <lb ed="#J" n="112"/>rincipia omnium decem praedicamentorum, vt 
+        <lb ed="#J" n="113"/>dicitur in. 12. meta. in te: com. 36. Et quandoque Arist. com. 
+        <!--Averroes_Physica_JuntSecunda_04-0974.xml-->
+        <pb ed="#J" n="483-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>fueuit adducere diuisionem magis 
+        genera<lb ed="#J" n="2" break="no"/>lem comprehendentem onia entia simpicitur, &amp;  
+        <lb ed="#J" n="3"/>est ista, quam innuit hic, videlicet quod entium 
+        <lb ed="#J" n="4"/>quadam sunt actum tandum, quaedam sunt in actu &amp; 
+        po<lb ed="#J" n="5" break="no"/>tentia siilter &amp; secundum naturam diuisionis quadam sunt 
+        <lb ed="#J" n="6"/>potentia tanmdu, licet, propter breuitatem illud sit 
+        <lb ed="#J" n="7"/>omissum: aut vt d. Simplicius: quiam non reperitur 
+        <lb ed="#J" n="8"/>aliquid ens, quod sit in pura potentia tandum secundum 
+        <lb ed="#J" n="9"/>subsistentiam, quin aliquo modo actu sit 
+        ali<lb ed="#J" n="10" break="no"/>quid, quia Plotino teste illud, quid est in 
+        po<lb ed="#J" n="11" break="no"/>tentia ad aliquid, oportet vt illud prius sit 
+        <lb ed="#J" n="12"/>aliquid actu in se. vt es, quid est in potentia 
+        <lb ed="#J" n="13"/>statua, prius est actu aes. &amp; hanc diuisionem 
+        gnera<lb ed="#J" n="14" break="no"/>lem etiam innuit Philosophus. i2. metam. in ca.I 
+        <lb ed="#J" n="15"/>vide etiam sanctum Thomam in, it. met. in lcomne 
+        <lb ed="#J" n="16"/>nona secundum secundam expositionem, quomodo illa 
+        <lb ed="#J" n="17"/>tertia diuisio per actum tamedu, per potentiam 
+        <lb ed="#J" n="18"/>a, &amp; per vtrunque sit intelligenda, quia placet.
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e672">
+               <head xml:id="gGhHfF-d1e962-Hd1e674">Contradictio 4</head>
+               <p xml:id="gGhHfF-d1e962-d1e677">
+                  <lb ed="#J" n="19"/>Quarta contradi. est in com. 4. Ibi eni com. 
+        <lb ed="#J" n="20"/>definiens motum. materialitur sumptum 
+        di<lb ed="#J" n="21" break="no"/>cit quod motus nihil abiud est qua generatio 
+        par<lb ed="#J" n="22" break="no"/>tis post partem illius perfectionis, ad quam 
+        <lb ed="#J" n="23"/>uadit motus, donec perficiatur, &amp; sit in actu. 
+        <lb ed="#J" n="24"/>ex quo patet motum fieri, &amp; maxie motum 
+        in<lb ed="#J" n="25" break="no"/>tensionis, per additionem partis gradualis ad 
+        <lb ed="#J" n="26"/>partem gradualem. Huius tamen opposirum vivetet 
+        sen<lb ed="#J" n="27" break="no"/>tire expresse Co. in. 4. physi. com. 34. ibi enim 
+        <lb ed="#J" n="28"/>dicit additionem caloris agentis in calorem 
+        <lb ed="#J" n="29"/>corporis non fieri secundum additionem partis i 
+        <lb ed="#J" n="30"/>toto, &amp; vniversaliter partis materiae in materiam, sed  
+        <lb ed="#J" n="31"/>Eeundum additionem agentis in passionem panien 
+        <lb ed="#J" n="32"/>tis scilicet quod quando calor agentis vigorabitur, crescat ca 
+        <lb ed="#J" n="33"/>lor patientis, non secundum additionem partium 
+        cali<lb ed="#J" n="34" break="no"/>darum extrinfecarum, cunm ad patientem non  
+        <lb ed="#J" n="35"/>transferatur aliquid ab agente. Ista 
+        contradi<lb ed="#J" n="36" break="no"/>ctio tangit maximam controuersiam inter duos 
+        <lb ed="#J" n="37"/>principes nimae militiae, scilicet sanctum Doctorem, 
+        <lb ed="#J" n="38"/>&amp; doctorem subtilem, qui in. 2. suniarum. d 
+        <lb ed="#J" n="39"/>stin. 17. in materia de habitibus, quaest. 2. de 
+        <lb ed="#J" n="40"/>modo augmenti charitatis sunt discordes. 
+        <lb ed="#J" n="41"/>vnus eim renuit intensionem illam non fieri per 
+        <lb ed="#J" n="42"/>additionem gradus ad gradum. quia illi 
+        gra<lb ed="#J" n="43" break="no"/>dus, aut essent specie distincti, aut numero: 
+        <lb ed="#J" n="44"/>non specie quia omnes charitates sunt eiusdem 
+        <lb ed="#J" n="45"/>speciei, neque etiam distinguuntur nuntero, quia 
+        <lb ed="#J" n="46"/>talis est ex parte materiae: sicut haec albedo 
+        <lb ed="#J" n="47"/>differt numero ab illa, quia est in alio subis 
+        <lb ed="#J" n="48"/>cto. charitas autem, quae addi potet, additur in eodem 
+        <lb ed="#J" n="49"/>subiecto, in quo est percedens. intensio igitur cha 
+        <lb ed="#J" n="50"/>ritatis, &amp; cuislibet formae non sit per additio 
+        <lb ed="#J" n="51"/>nem alicuius gradus, sed solum quia illa 
+        quali<lb ed="#J" n="52" break="no"/>tas, quae prius inerat, intenditur secundum propinquitatem 
+        <lb ed="#J" n="53"/>ad terminum. Et ista est via scti Doctoris vbi 
+        <lb ed="#J" n="54"/>supra. <name xml:id="gGhHfF-d1e962-Nd1e757">Scotus</name> vero ponens suas echeitates, 
+        di<lb ed="#J" n="55" break="no"/>xit intensionem sieriper additionem gradus ad 
+        <lb ed="#J" n="56"/>gradum, &amp; dixit istos gradus numero differre 
+        <!--Averroes_Physica_JuntSecunda_04-0974.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>per suas. e cheitates, licet in eorem subiecto. 
+        <lb ed="#J" n="58"/>sint. In via etiam sci Doctoris diuersitas est in  
+        <lb ed="#J" n="59"/>ter sequaces suos, vtrum intensio formae sia t secundum 
+        <lb ed="#J" n="60"/>esse, aut secundum gradum. Nam quod secundum essentiam fiat. 
+        <lb ed="#J" n="61"/>impossibile est quia essentiae rerum consistunt in pum 
+        <lb ed="#J" n="62"/>cto, sicut viversali velle Philosophus. S. met. com. &amp;  
+        <lb ed="#J" n="63"/>e. 10. oporret ergoque ista intensio fiat, aut secundum 
+        <lb ed="#J" n="64"/>esse, aut secundum gradum. Quidam autem pecipui 
+        Tho<lb ed="#J" n="65" break="no"/>mistarum tenuerunt intensionem formae fieri 
+        <lb ed="#J" n="66"/>non secundum esse. quia hoc videtur esse contra sanctum 
+        <lb ed="#J" n="67"/><name xml:id="gGhHfF-d1e962-Nd1e791">Thomam</name> in infinitis locis. <ref xml:id="gGhHfF-d1e962-Rd1e795">I. suiarum distin. i7. 
+        <lb ed="#J" n="68"/>quaest. 2. ar. i.</ref> &amp; <ref xml:id="gGhHfF-d1e962-Rd1e800">in. 2. sedundae quaest. 14. 
+        ar<lb ed="#J" n="69" break="no"/>4. intun sione ad tertium</ref>. Et ideo dixerunt ista 
+        <lb ed="#J" n="70"/>intensionem formae fieri per additionem 
+        <lb ed="#J" n="71"/>gradus ad gradum: qui tamen gradus additus 
+        idem<lb ed="#J" n="72" break="no"/>ificatur praeexistenti, &amp; non remanent dist in,  
+        <lb ed="#J" n="73"/>cti, ficut posuit <name xml:id="gGhHfF-d1e962-Nd1e814">Scotus</name>. Et hac viam imitatus 
+                 <lb ed="#J" n="74"/>est subtilissimus Thomistarum <ref xml:id="gGhHfF-d1e962-Rd1e819"><name xml:id="gGhHfF-d1e962-Nd1e820" ref="#HerveusNatalis">Herueus 
+        Bti<lb ed="#J" n="75" break="no"/>o</name> in quolibeto. 2. quaest. 13.</ref> sicut est in alimen 
+        <lb ed="#J" n="76"/>to, quod pars sequens addita identificatur 
+        pexi<lb ed="#J" n="77" break="no"/>stenti, sic est de intensione formae quantum 
+         <lb ed="#J" n="78"/>ad gradus. <ref xml:id="gGhHfF-d1e962-Rd1e833"><name xml:id="gGhHfF-d1e962-Nd1e834" ref="#JohannesCapreolus">Capreolus</name> autem. 2. sniarum</ref> tenuit in  
+        <lb ed="#J" n="79"/>tensionem formae fieri secundum esse. quicquid sit 
+        <lb ed="#J" n="80"/>vna istarum viarum vnidersal hire authoritatem Com. 3 
+        <lb ed="#J" n="81"/>phy. com. 4. pro se, &amp; alia habet com. S9. &amp; 
+        tex<lb ed="#J" n="82" break="no"/>tum etiam. 4. phy. &amp; ita Com. ipse remanet 
+        <lb ed="#J" n="83"/>in contradictione. Nisi esset, quod hic dixit mo 
+        <lb ed="#J" n="84"/>tum esse acquisitionem partis post partem. 
+        <lb ed="#J" n="85"/>quae quidem acquisitio est vniversalis in omnibus for 
+        <lb ed="#J" n="86"/>mis acquisibilibus per motum: quia secundum 
+        ip<lb ed="#J" n="87" break="no"/>sum sunt partibiliter acquisibiles. vtrum autem 
+        <lb ed="#J" n="88"/>omnes per minima, nec ne, in primo satis 
+        <lb ed="#J" n="89"/>diximus super com. 6x. Istam autem 
+        acquisitio<lb ed="#J" n="90" break="no"/>nem ponit Com. ita, quod fiat ex potentia 
+        mate<lb ed="#J" n="91" break="no"/>riae aeducta ad actu. negat tamen Com. 4. phy. com. 
+        <lb ed="#J" n="92"/>S4. acquisitionem partis post partem ab ex 
+        <lb ed="#J" n="93"/>trinseco factam. &amp; ista non contradicunt, 
+        si<lb ed="#J" n="94" break="no"/>cut vides. vnde, si ponderabis verba com. Sa. 
+        <lb ed="#J" n="95"/>nihil plus inuenies. videre autem, quae illaium 
+        <lb ed="#J" n="96"/>viarum extremarum sit verior, non est possuntis 
+        spe<lb ed="#J" n="97" break="no"/>culationis. vbi enim est discordia iter Scorum &amp;  
+        <lb ed="#J" n="98"/>sanctum Thomam, difficile est videre veritatem¬ 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e883">
+               <head xml:id="gGhHfF-d1e962-Hd1e885">Contradictio 5</head>
+               <p xml:id="gGhHfF-d1e962-d1e888">
+                  <lb ed="#J" n="99"/>Quinta contradi. est in tex. 16. Arist. 
+        di<lb ed="#J" n="100" break="no"/>cit quod omne mouens physice, vel vt habet alia 
+        <lb ed="#J" n="101"/>litera, qua legit Alex. omne quod mouetur, 
+        <lb ed="#J" n="102"/>uhysice moueturscum fit potentia mobile, 
+        <lb ed="#J" n="103"/>&amp; cui immobilitas quies est. &amp; Arist. ibi po 
+        <lb ed="#J" n="104"/>nit causam quia agere in hoc nilaliud est. 
+        <lb ed="#J" n="105"/>qua mouere. hoc autem facit tactu, quare simul 
+        <lb ed="#J" n="106"/>&amp; patitur. vnde ibi expositores dicunt mouens 
+        <lb ed="#J" n="107"/>corporeum, cui immobilitas quies est, i mo 
+        <lb ed="#J" n="108"/>uendo mouetur. Sed tunc est contradictio. 
+        <lb ed="#J" n="109"/>quia idem respectu eiusdem esset in 
+        poten<lb ed="#J" n="110" break="no"/>tia, &amp; in actu secundum idem contra Phlosophum. 
+        <lb ed="#J" n="111"/>6 phy. tex. com. 4o. &amp; contra Com. 3. de anima 
+        <lb ed="#J" n="112"/>com. 4. Praeterea motor non pot mouere nisi 
+        <!--Averroes_Physica_JuntSecunda_04-0975.xml-->
+        <pb ed="#J" n="484-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>habet, proportionem maioris inaequalitatis su 
+        <lb ed="#J" n="2"/>pra mobile. si igitur omne mouens in mundo 
+        <lb ed="#J" n="3"/>moueretur ab eo, quod mouet, ex parte, qua 
+        <lb ed="#J" n="4"/>mouet, superat, ex parte, qua mouetur, su¬. 
+        <lb ed="#J" n="5"/>peratur ab eodem. quod non capit intellectus Ad tol 
+        <lb ed="#J" n="6"/>endam huiusmodi contradictionem dixerunt aliqui 
+        <lb ed="#J" n="7"/>quod non inconuenit idem esse mouens &amp; mo 
+        <lb ed="#J" n="8"/>tum: &amp; agens &amp; patiens respectu eiusdem, sed  
+        <lb ed="#J" n="9"/>non secundum idem, sed secundum diuersa. vnde dico quod 
+        <lb ed="#J" n="10"/>reactio non fit per easdem qualitates, sed  
+        <lb ed="#J" n="11"/>per diuersas. vnde, si ignis agit in aquam per 
+        <lb ed="#J" n="12"/>caliditatem, aqua reagit in ignem per 
+        humi<lb ed="#J" n="13" break="no"/>ditatem. Sed ista opinio stare non pont. quia Aris. 
+        <lb ed="#J" n="14"/>in. 2. de gene. &amp; corrup. in te. com. 24. dicit quod 
+        <lb ed="#J" n="15"/>omnia efnta possunt adinuicem transmutari. 
+        <lb ed="#J" n="16"/>&amp; in te. 233. d. quod differunt in citius &amp; tardius 
+        <lb ed="#J" n="17"/>quia in habentibus symbolum citior &amp; 
+        faci<lb ed="#J" n="18" break="no"/>lior est transmutato &amp; ex consequenti cum 
+        <lb ed="#J" n="19"/>talia esnta habentia synibolum, habent 
+        com<lb ed="#J" n="20" break="no"/>trarium solum vnam qualitatem, &amp; sicut in 
+        ma<lb ed="#J" n="21" break="no"/>teria, &amp; talis alteratio fiat per contactum, tunc 
+        <lb ed="#J" n="22"/>talis reactio erit secundum ea sdem qualitates: quid  
+        <lb ed="#J" n="23"/>concedimus. Et ideo aliter dicendum puto ad 
+        <lb ed="#J" n="24"/>praesentem contradictionem, vt locus iste re 
+        <lb ed="#J" n="25"/>quirit. nam materia ista pertinet magis ad 
+        li<lb ed="#J" n="26" break="no"/>brum primum de gene. &amp; corrup. Dico igitur, 
+        <lb ed="#J" n="27"/>quod omne agens corporeum communicans in eadem 
+        <lb ed="#J" n="28"/>materia cum passo in agendo paritur. &amp; hoc 
+        <lb ed="#J" n="29"/>pot esse respectu eiusdem, contrarietatis. sed 
+        <lb ed="#J" n="30"/>hoc non enit eodem modo, sed diuersis. &amp; 
+        <lb ed="#J" n="31"/>hoc non inconuenit, dicit enim Com. 3. phy. com. S 
+        <lb ed="#J" n="32"/>quod idem respectu eiusdem pont esse in actu et 
+        <lb ed="#J" n="33"/>in potentia secundum duos modos. vt panis 
+        respe<lb ed="#J" n="34" break="no"/>ctu corporis est in actu, &amp; in potentia. nam 
+        <lb ed="#J" n="35"/>panis vt est in actu, agit in corpus, vt vero 
+        <lb ed="#J" n="36"/>est corpus in potentia patitur a corpote. similiter 
+        <lb ed="#J" n="37"/>ignis, vt est actu calidus agit in aquam vt est 
+        <lb ed="#J" n="38"/>potentia frigida, sed ignis patitur ab aqua, 
+        <lb ed="#J" n="39"/>vt est potentia frigidus, aqua vero agit 
+        <lb ed="#J" n="40"/>vt est actu frigida. ecce igitur quod si agit &amp; pa 
+        <lb ed="#J" n="41"/>titur ignis, non est eodem modo, sed diuersis mo 
+        <lb ed="#J" n="42"/>dis. nam agere &amp; mouere actus sunt. 3. phy.17 
+        <lb ed="#J" n="43"/>&amp;. I. de gene. &amp; corrup. te. com. 33. moueri ve 
+        <lb ed="#J" n="44"/>ro, &amp; pari alterius sunt principii, videlicet 
+        <lb ed="#J" n="45"/>materiae &amp; potentiae. quia igitur passio est 
+        <lb ed="#J" n="46"/>ratione potentiae, &amp; ratione materiae, quae subilci 
+        <lb ed="#J" n="47"/>tur per potentiam, ideo quorum materia vna 
+        <lb ed="#J" n="48"/>est, talia dum agunt. necesse est quod patiantur 
+        <lb ed="#J" n="49"/>in agendo, quia talis actio est per contactum 
+        <lb ed="#J" n="50"/>&amp;, cum sit communicatio in materia, quae est 
+        subie<lb ed="#J" n="51" break="no"/>sctum contrarietatis, per quam fit actio, de 
+        neces<lb ed="#J" n="52" break="no"/>sitate sequitur dictum Philosophi quod omne tale 
+        <lb ed="#J" n="53"/>dum agit, patitur. Sed, si instetur quod idem 
+        <lb ed="#J" n="54"/>respectueiusdem erit superans et superatum, 
+        <lb ed="#J" n="55"/>excedens &amp; excessum, quod videtur 
+        absur<lb ed="#J" n="56" break="no"/>dum. nam, si ignis agit per calorem in aqua, 
+        <!--Averroes_Physica_JuntSecunda_04-0975.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>habet proportionem maioris inaequalitatis 
+        <lb ed="#J" n="58"/>in frigiditatem aquae: si econtra aqua per  
+        <lb ed="#J" n="59"/>frigiditatem reagit i caliditatem, sequitur quod  
+        <lb ed="#J" n="60"/>frigiditas habet proportionem maioris 
+        inae<lb ed="#J" n="61" break="no"/>iualitatis respectu caliditatis: &amp; ita idem 
+        <lb ed="#J" n="62"/>erit excedens &amp; excessum respectu eiusdem, 
+        <lb ed="#J" n="63"/>Amplius sequeretur quod nunquam ignis posset 
+        <lb ed="#J" n="64"/>assimilare sibi aquam, si ita agendo patitur, &amp;  
+        <lb ed="#J" n="65"/>patiendo reagit. Et confirmatur. quia agens, 
+        <lb ed="#J" n="66"/>&amp; patiens, aut sunt adaequata potentijs, &amp; tunc 
+        <lb ed="#J" n="67"/>non, puenit actio: aut agens est maioris 
+        poten<lb ed="#J" n="68" break="no"/>tiae, &amp; tunc mouebit, &amp; non mouetur, aut est 
+        <lb ed="#J" n="69"/>minoris, &amp; tunc mouetur &amp; non mouet. Am 
+        <lb ed="#J" n="70"/>plius, sit motor agens secundum vltimum virtutis. in 
+        <lb ed="#J" n="71"/>passum aliquod per longam distantiam, patet 
+        <lb ed="#J" n="72"/>quod passum per totam illam distantiam non pont age 
+        <lb ed="#J" n="73"/>re in passum: igitur aliquid agit, &amp; non 
+        pari<lb ed="#J" n="74" break="no"/>tur. Dicit Burleus quod secundum Arist, &amp; Com. agens 
+        <lb ed="#J" n="75"/>corporeum in materia conueniens cum passo, 
+        <lb ed="#J" n="76"/>patitur in agendo non a toto, sed a, poximo. 
+        <lb ed="#J" n="77"/>&amp; d. quod non omne mouens mouetur, vt patet &amp; 
+        <lb ed="#J" n="78"/>primo motore, nec omne mouens corporeum 
+        <lb ed="#J" n="79"/>mouetur a moto ab eo, vt corpus coeleste, 
+        <lb ed="#J" n="80"/>sed omne corpus communicans in eadem materia cum 
+        <lb ed="#J" n="81"/>moto, dummodo materia sit receptiua 
+        for<lb ed="#J" n="82" break="no"/>mae, qua agens agit, quid apponitur propter sensi 
+        <lb ed="#J" n="83"/>bile, quid agit in sensum, sed non patitur a sensus 
+        <lb ed="#J" n="84"/>&amp; est motus alterationis per formam, qui 
+        li<lb ed="#J" n="85" break="no"/>cet fiat per contactum, vt patet. 7. phy. te. c. 1x. 
+        <lb ed="#J" n="86"/>nihilhominus non sit reactio. quia cum 
+        ma<lb ed="#J" n="87" break="no"/>teria non sit receptiua formae contrariae, ideo 
+        <lb ed="#J" n="88"/>sensibile non patitur a sensu. &amp; tunc ad illud 
+        <lb ed="#J" n="89"/>de excessu d. quod est secundum diuersas formas. sed  
+        <lb ed="#J" n="90"/>illud stare non potest, vt diximus, quia tunc non  
+        <lb ed="#J" n="91"/>posset in elntis symbolis esse reactio. Amplius 
+        <lb ed="#J" n="92"/>in aqua frigida ponatur in calidam, patet ad 
+        <lb ed="#J" n="93"/>sensum quod caliditas remittitur a caliditate. 
+        <lb ed="#J" n="94"/>Paulus Venetus dicit quod quaelibet qualitas 
+        <lb ed="#J" n="95"/>est actiua &amp; passiua. &amp; ideo idem respectu, 
+        <lb ed="#J" n="96"/>ciusdem est agens &amp; patiens, sed non eodem modo, 
+        <lb ed="#J" n="97"/>licet sit secundum idem. quia mouens per formam eandem 
+        <lb ed="#J" n="98"/>mouet, vt est in actu per illam, &amp; mouetur, iquam 
+        <lb ed="#J" n="99"/>tum per eandem est in potentia, vt illa est passi 
+        <lb ed="#J" n="100"/>ua. vdndeo ignis per calorem agit, &amp; per calorem pa 
+        <lb ed="#J" n="101"/>titur: sed agit per calorem vt est actiua, &amp; patitur 
+        <lb ed="#J" n="102"/>per calorem vt est passiua. &amp; similiter est de aqua 
+        <lb ed="#J" n="103"/>respectu frigiditatis. vnde motor mouet vt 
+        <lb ed="#J" n="104"/>est in actu, &amp; mouetur vt est potentia mobilis. 
+        <lb ed="#J" n="105"/>licet igitur mouens moueatur a moto, non  
+        <lb ed="#J" n="106"/>mouetur ab eo inquantum motum, sed vt est mo 
+        <lb ed="#J" n="107"/>tiuum: &amp; motum mouet mobile, non vt est 
+        mo<lb ed="#J" n="108" break="no"/>bile mouens, sed vt est potentia motum. vnde 
+        <lb ed="#J" n="109"/>licet minus agat in maius, tamen agit a, 
+        proportio<lb ed="#J" n="110" break="no"/>ne maioris inaequalitatis, ex quo maior est 
+        <lb ed="#J" n="111"/>potentia actiua minoris, qua: potentia passiua 
+        <lb ed="#J" n="112"/>maioris. Ista positio est contra pricipia Pinhis, 
+        <!--Averroes_Physica_JuntSecunda_04-0976.xml-->
+        <pb ed="#J" n="484-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>quod aliquid sit in actu &amp; in potentia per eandem 
+        <lb ed="#J" n="2"/>formam respectu eiusdem, tunc enim rueret totus 
+        <lb ed="#J" n="3"/>octauus phy. &amp; demratio Philosophi in. S. 
+        <lb ed="#J" n="4"/>phy. tex. com. 49. vbi habet quod totum non poss 
+        <lb ed="#J" n="5"/>per se mouere totum, quia tunc idem esset in  
+        <lb ed="#J" n="6"/>actu &amp; in potentia. Rueret etiam ratio Com. 3. 
+        <lb ed="#J" n="7"/>coeli com. 26. vbi habet quod elementum non pont es. 
+        <lb ed="#J" n="8"/>se per se mouens, &amp; per se motum secundum formam, 
+        <lb ed="#J" n="9"/>quia, cum moueat secundum quod est actu, &amp; subiectum 
+        <lb ed="#J" n="10"/>motus sit ens in actu. &amp;, cum non sit in actu 
+        <lb ed="#J" n="11"/>nisi per formam, tunc idem secundum idem essentialilitur esset 
+        <lb ed="#J" n="12"/>mouens &amp; motum, &amp; in actu &amp; in potentia 
+        <lb ed="#J" n="13"/>vnde licet secundum Peripateticos idem sit in poten 
+        <lb ed="#J" n="14"/>tia &amp; in actu, tamen hoc non pot esse per se 
+        re<lb ed="#J" n="15" break="no"/>spectu eiusdem. forma esnti per se mouet, sed 
+        <lb ed="#J" n="16"/>mouetur per accidens ratione materiae, &amp; vt est 
+        <lb ed="#J" n="17"/>forma in materia. Dico igitur ait, quod ignis, 
+        in<lb ed="#J" n="18" break="no"/>quantum est in actu, per caliditatem agit in aquam 
+        <lb ed="#J" n="19"/>inquantum aqua est in potentia calida: sed  
+        <lb ed="#J" n="20"/>aqua non est in potentia calida ratione 
+        frigidi<lb ed="#J" n="21" break="no"/>tatis: quia ista potentia est passiua, &amp; vnum 
+        <lb ed="#J" n="22"/>contrariorum non est receptiuum alterius con 
+        <lb ed="#J" n="23"/>trarij. licet enim frigidum actu sit calidum potentia, 
+        <lb ed="#J" n="24"/>hoc est ratione priuationis annexae, quae est in  
+        <lb ed="#J" n="25"/>materia, quae non pont expoliari a contrarie 
+        <lb ed="#J" n="26"/>tate secundum totum. similiter aqua vt est actu frigida 
+        <lb ed="#J" n="27"/>agit in ignem, qui est potentia frigids, sed ignis, 
+        <lb ed="#J" n="28"/>non dicitur esse potentia frigidus, loquendo de 
+        <lb ed="#J" n="29"/>potentia priuatiua ratione caliditatis: quia tunc 
+        <lb ed="#J" n="30"/>talidum, remanens calidum, pot recipere frigidi 
+        <lb ed="#J" n="31"/>tatem: sed est ratione materiae, quae stat sub forma 
+        <lb ed="#J" n="32"/>ignis calidi. Et ideo. I. de gneratione te. com. 4  
+        <lb ed="#J" n="33"/>laudans Dlogenem, dicit quod, si non essent 
+        ex<lb ed="#J" n="34" break="no"/>vno omnia, non esset facere &amp; pati adinuicem 
+        <lb ed="#J" n="35"/>Et ideo Arist. dicit quod est ista necessaria con 
+        <lb ed="#J" n="36"/>ditio in hoc, quod fiat ista mutua actio, &amp; 
+        pas<lb ed="#J" n="37" break="no"/>sio, vt sit communis materia. quia per materiam com 
+        <lb ed="#J" n="38"/>munem vtrumque est in potentia, sedper formas 
+        <lb ed="#J" n="39"/>diuersas vtrumque est itractu, &amp; vtrumque agit per 
+        <lb ed="#J" n="40"/>illud, quid est sibi proprium, &amp; vtrunque patitur, 
+        <lb ed="#J" n="41"/>per illud, in quo est communicatio. Vnde Aris. in. 1. 
+        <lb ed="#J" n="42"/>lib. de onat. &amp; Corru. isto modo conciliat 
+        <lb ed="#J" n="43"/>opiniones Antiquorum. quidam enim actionem et 
+        <lb ed="#J" n="44"/>passionem dicebat fieri merito similis, &amp; qui 
+        <lb ed="#J" n="45"/>dam merito contrarietatis. ipse dicit quod cum 
+        <lb ed="#J" n="46"/>totum videre debuissent, partem viderunt 
+        ani<lb ed="#J" n="47" break="no"/>bo. vnde tex. com. 30. determinat quod receptio 
+        <lb ed="#J" n="48"/>est merito similitudinis: quia quae patiuntur, dciunt 
+        <lb ed="#J" n="49"/>conuenire in eodem gnens, i. subiecto seu mate 
+        <lb ed="#J" n="50"/>ria, &amp; actio est merito contrarietatis. non igi 
+        <lb ed="#J" n="51"/>tur ignis per se agit, &amp; per se paritur 
+        calidita<lb ed="#J" n="52" break="no"/>tem, ita quod caliditas sit per se ratio, per quam 
+        <lb ed="#J" n="53"/>agit, &amp; per quam patitu: sed agit per caliditatem 
+        <lb ed="#J" n="54"/>per se, &amp; per eandem patitur per accides. &amp; quia 
+        <lb ed="#J" n="55"/>omne per accides reducitur ad per se, per se uari 
+        <lb ed="#J" n="56"/>ratione materiae subiectae calori, sic non est in¬  
+        <!--Averroes_Physica_JuntSecunda_04-0976.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>conueniens. quia dicit Com. quod forma vt forms 
+        <lb ed="#J" n="58"/>mouet, sed vt est in materia mouetu: quia mo 
+        <lb ed="#J" n="59"/>tio passiua est a materia non a forma. ita 
+        dic<lb ed="#J" n="60" break="no"/>se aqua, quod per frigiditatem per se agit in ignem, 
+        <lb ed="#J" n="61"/>vt est in potentia passiua per se per materiam, 
+        <lb ed="#J" n="62"/>ecundum quam est potentia sir igida: &amp; eadem aqua 
+        <lb ed="#J" n="63"/>patitur, vt est in potentia passiua per materiam 
+        <lb ed="#J" n="64"/>per se vt est potentia ealida: sed per frigidita 
+        <lb ed="#J" n="65"/>tem aqua non est in potentia passiua, nisi per  
+        <lb ed="#J" n="66"/>accidens. Sed ad difficultatem de excessu, dic 
+        <lb ed="#J" n="67"/>quod quando contraria ita sunt adaequata in suis po 
+        <lb ed="#J" n="68"/>tentiis, quod vnum tantum pot agere in reliquum, 
+        <lb ed="#J" n="69"/>quantum alterum resistere, non prouenst actio 
+        <lb ed="#J" n="70"/>in hoc casu. Vnde Com. in hoc sensu negat 
+        <lb ed="#J" n="71"/>anibas qualitates esse aeque potentes in sum 
+        <lb ed="#J" n="72"/>mo in esntis, quia non, pueniret actio, vt pa 
+        <lb ed="#J" n="73"/>et. 4. mereo. com. 10. Et ideo dicit Arist. in. 1. 
+        <lb ed="#J" n="74"/>lib. de genera. tex. com. S9. &amp; in. 2. etiam te. com. SA. 
+        <lb ed="#J" n="75"/>quod in mixtione, quando contraria sunt adaequata 
+        <lb ed="#J" n="76"/>potentiis aequalitur, tunc transniutatur vtruque in 
+        <lb ed="#J" n="77"/>sui ipsius natura. non enim gneratur alterum, sed  
+        <lb ed="#J" n="78"/>medium commune. Et ita etiam dicit Com. in. 2. de genera. 
+        <lb ed="#J" n="79"/>om. 4g. quod mixtio contrariorum non fit, quando 
+        <lb ed="#J" n="80"/>simpiercitur alterum demunatur super alterum, neque quando 
+        <lb ed="#J" n="81"/>int aequalem potentiam. si enim potentia alterius 
+        <lb ed="#J" n="82"/>fuerit simpircitur detunans gnatio erit dmuantis, &amp;  
+        <lb ed="#J" n="83"/>corruptio dtunati. &amp;, si fuerint aequales poten 
+        <lb ed="#J" n="84"/>tiae, tunc non fiet altera forma, vt declaratum 
+        <lb ed="#J" n="85"/>est in, 4. meteo. Vbi animaduerte quod non fuit. 
+        <lb ed="#J" n="86"/>ppinio Com. quod duo contraria aequalia in 
+        gra<lb ed="#J" n="87" break="no"/>dibus non possunt agere, vt multi ex ista 
+        autho<lb ed="#J" n="88" break="no"/>ritate male intella intellexerunt. quia hoc 
+        <lb ed="#J" n="89"/>est contra sensum. quia calidum vt. S. potest 
+        <lb ed="#J" n="90"/>agere in frigidum vt. 9. sed sensus est. quod ex 
+        tali<lb ed="#J" n="91" break="no"/>bus, quae sunt aequalia in potentiis, non pet 
+        <lb ed="#J" n="92"/>resultare forma media: quia oportet talem 
+        <lb ed="#J" n="93"/>formam, si debet prouenire, declinare ad alte 
+        <lb ed="#J" n="94"/>rum contrariorum, quid sit ditunrans dtuati: quia 
+        <lb ed="#J" n="95"/>non datur complexio ponderalis. nec aequale ad 
+        <lb ed="#J" n="96"/>pondus. vnde sic intelligitur authoritas eius 
+        <lb ed="#J" n="97"/>in. 4. meteo. in com. io quia &amp; in 10. meta. 
+        <lb ed="#J" n="98"/>com. a3. &amp; in. 2. colliget cap. vlti. &amp; hic semper  
+        <lb ed="#J" n="99"/>eodem modo loquitur. Quidam enim ex illa 
+        au<lb ed="#J" n="100" break="no"/>thoritate in. 4. meteo. colligunt secundum 
+        Auer<lb ed="#J" n="101" break="no"/>non posse reactionem fieri secundum eandem 
+        con<lb ed="#J" n="102" break="no"/>trarietatem: sed falluntur Sed opinio sua est ista 
+        <lb ed="#J" n="103"/>quod, quando elnta alterantur a dinuicem, si debet 
+        fio<lb ed="#J" n="104" break="no"/>ri mixtum, oportet, quod alterum sit donans, &amp;  
+        <lb ed="#J" n="105"/>alterum dmuatu. sed prper hoc non sequitur illud, 
+        <lb ed="#J" n="106"/>quod ipsi sibi imponunt, sed solum quod non possunt 
+        <lb ed="#J" n="107"/>hre potentias aequales. nam semper vnum 
+        <lb ed="#J" n="108"/>duatur reliquis: &amp; ideo nuxtum mouetur ab 
+        <lb ed="#J" n="109"/>elnto dmuante. &amp; licet sint in gradibus aequa 
+        <lb ed="#J" n="110"/>lia, potentia tamen vnius superat resistentiam 
+        <lb ed="#J" n="111"/>alterius. nam ignis vt est actu calidus, 
+        supe<lb ed="#J" n="112" break="no"/>rat aquam, quae est potentia frigida: &amp; similiter de aquae  
+        <!--Averroes_Physica_JuntSecunda_04-0977.xml-->
+        <pb ed="#J" n="485-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>respectu ignis. ex quo sequitur quod licet ignis, 
+        <lb ed="#J" n="2"/>agat, &amp; patiatur ab aqua, &amp; in aquam, 
+        ta<lb ed="#J" n="3" break="no"/>men plus proportionabiliter agit, quam 
+        pa<lb ed="#J" n="4" break="no"/>tiatur. aqua etiam plus proportionabiliter 
+        <lb ed="#J" n="5"/>patitut, quae agat, si ignis dominatur, &amp; aqua 
+        <lb ed="#J" n="6"/>est dominata, vt dicunt Medici, secundum quod in com 
+        <lb ed="#J" n="7"/>ceptione foerus mas, &amp; foemina vterque con 
+        <lb ed="#J" n="8"/>currit actiue &amp; passiue, tamen mas magis agit quae 
+        <lb ed="#J" n="9"/>patitur, foemina vero magis patitur, quae agit. 
+        <lb ed="#J" n="10"/>&amp; tamen actio semper sequitur a 
+        proportio<lb ed="#J" n="11" break="no"/>ne maioris inaequalitatis. vnde si minus in 
+        <lb ed="#J" n="12"/>gradu potest reagere in maius, multo fortius 
+        <lb ed="#J" n="13"/>aequale, tamen cum hoc actio semper, prouenit a 
+        <lb ed="#J" n="14"/>proportione maioris inaequalitatis, quam habet 
+        <lb ed="#J" n="15"/>potentia agentis supra resistentiam passi. vn 
+        <lb ed="#J" n="16"/>de licet idem sit respectu eiusdem, agens &amp; pa 
+        <lb ed="#J" n="17"/>tiens, in actu &amp; in potentia, penes eandem com. 
+        <lb ed="#J" n="18"/>trarietatem, hoc tamen est secundum duos modos 
+        di<lb ed="#J" n="19" break="no"/>uersos. &amp; hoc nihil est in conueniens: quia po 
+        <lb ed="#J" n="20"/>tentia caliditatis superat resistentiam aquae,  
+        <lb ed="#J" n="21"/>&amp; potentia frigiditatis superat resistentiam 
+        <lb ed="#J" n="22"/>caliditatis. ista autem sunt diuersa, vt patet, &amp;  
+        <lb ed="#J" n="23"/>secundum diuersos modos. Nota tamen quod licet 
+        ex<lb ed="#J" n="24" break="no"/>positores dicant hic, &amp; praecipue Com. quod agens 
+        <lb ed="#J" n="25"/>physicum, ex quo agit per contactum, necesse 
+        <lb ed="#J" n="26"/>est quod patiatur ab eo, in quod agit, hoc est 
+        <lb ed="#J" n="27"/>verum, vbi est communis materia. sed hoc non ha 
+        <lb ed="#J" n="28"/>betur ex isto loco, sed ex. I. de genera. vbi Aris. 
+        <lb ed="#J" n="29"/>hic loquitur vniversalius quam ibi. ex hoc loco non ha 
+        <lb ed="#J" n="30"/>betur, nisi quia mouens physicum mouet per 
+        <lb ed="#J" n="31"/>contactum, ex tactu motiui accidit quod patitur, 
+        <lb ed="#J" n="32"/>sed ex hoc non habetur quod patiatur ab illo, i 
+        <lb ed="#J" n="33"/>quod agit. sed hoc habetur ex libro de gene 
+        <lb ed="#J" n="34"/>ratione, vbi dicitur quod agens per contactum, communicans 
+        <lb ed="#J" n="35"/>in eadem materia cu passo in agendo, patitur 
+        <lb ed="#J" n="36"/>ab eo, in quod agit: licet Com. saluari possite 
+        <lb ed="#J" n="37"/>quia litera sua loquitur de motore in poten 
+        <lb ed="#J" n="38"/>tia, &amp; iste est motor materialis, sed secundum 
+        lite<lb ed="#J" n="39" break="no"/>ram Alexam, quae est de eo, quid mouetur, non plus 
+        <lb ed="#J" n="40"/>elicitur, qua id, quid diximus, quod id quod moue 
+        <lb ed="#J" n="41"/>tur, monetur inquantum est in potentia 
+        mo<lb ed="#J" n="42" break="no"/>bile, &amp; omne tale, cui immobilitas est vera ques, 
+        <lb ed="#J" n="43"/>cum moueat tactu, accidit ex contactu, vt 
+        <lb ed="#J" n="44"/>patiatur, i. quod in mouendo moueatur. Sed ex 
+        <lb ed="#J" n="45"/>hoc non habetur, nisi quod omne corpus in mouen 
+        <lb ed="#J" n="46"/>do mouetur &amp; sic est de coelo, quod mouet ista 
+        <lb ed="#J" n="47"/>&amp; mouetur, licet non mouetur a moto, sed  
+        <lb ed="#J" n="48"/>am motore separato. Vbi animaduerte quod, cum 
+        <lb ed="#J" n="49"/>multiplex sit motus, non eodem modo ver 
+        <lb ed="#J" n="50"/>ficatur ista propositio in omni motu. nam in  
+        <lb ed="#J" n="51"/>motu locali absolute est vera, quod omne 
+        cor<lb ed="#J" n="52" break="no"/>pus localiter mouens aliud localiter mouetur 
+        <lb ed="#J" n="53"/>siue sit coelum, siue sit aliud generabile. hoc 
+        <lb ed="#J" n="54"/>enim probatum est in. 7. phy. in 
+        principio<lb ed="#J" n="55" break="no"/>sed non intelligitur quod moueatur ab illo, quid 
+        <lb ed="#J" n="56"/>mouetur ab eo: sed sufficit quod moueatur ab 
+        <!--Averroes_Physica_JuntSecunda_04-0977.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>alio. Nam in hoc sunt instantiae manifesta 
+        <lb ed="#J" n="58"/>in oppositum. nomn oportet si manus mouet 
+        <lb ed="#J" n="59"/>baculum, vt baculus moueat manum. similiter coe 
+        <lb ed="#J" n="60"/>lum mouet ignem motu circulari, qualiscumque 
+        <lb ed="#J" n="61"/>sit, tamen coelum non mouetur ab igne motu 
+        <lb ed="#J" n="62"/>circulari. Nec etiam est intelligenda 
+        proposi<lb ed="#J" n="63" break="no"/>tio ista in motu locali, vt voluit Pomponas 
+        <lb ed="#J" n="64"/>tius in tractatu de reactione, in fectione 
+        se<lb ed="#J" n="65" break="no"/>cunda cap. 6. quod eadem specie motus, qua 
+        ali<lb ed="#J" n="66" break="no"/>quid mouet localitur aliquod sibi proximum, 
+        <lb ed="#J" n="67"/>eadem specie, cum moueat per contactum, mo 
+        <lb ed="#J" n="68"/>ueatur vt si aliquod mouens moueat aliquid 
+        <lb ed="#J" n="69"/>ad dextrum, ipse etiam moueatur ad dextrum. Hoc 
+        <lb ed="#J" n="70"/>enim falsum est inquan pluribus casibus. 
+        <lb ed="#J" n="71"/>Nam non oportet quod si homo mouet lignum 
+        <lb ed="#J" n="72"/>motu tractus, quod homo motu tractus 
+        traha<lb ed="#J" n="73" break="no"/>tur a ligno. Similiter vapores in Solis attractione 
+        <lb ed="#J" n="74"/>mouentur secundum angulos rector sursum, &amp; ta 
+        <lb ed="#J" n="75"/>men Sol non mouetur secundum lineam rectam, sed  
+        <lb ed="#J" n="76"/>in circulum. Amplius dextrum &amp; sinistrum non  
+        <lb ed="#J" n="77"/>constituunt speciem motus localis, sed sursum 
+        <lb ed="#J" n="78"/>&amp; deorsum, &amp; circa medium. alii autem sunt 
+        <lb ed="#J" n="79"/>motus compositi. vnde licetur mouens 
+        corpo<lb ed="#J" n="80" break="no"/>reum in mouendo moueatur, non tamen opor 
+        <lb ed="#J" n="81"/>tet quod moueatur ab illo quod mouet. nec vniversalite 
+        <lb ed="#J" n="82"/>pportet, licet moueatur, quod moueatur eadem 
+        <lb ed="#J" n="83"/>specie motus, sed sufficit quod moueatur 
+        loca<lb ed="#J" n="84" break="no"/>liter secundum genus. Ita expresse dicit lucidissimus 
+        <lb ed="#J" n="85"/>Themistius in. I. de anima in ca. 17. vbi 
+        sol<lb ed="#J" n="86" break="no"/>uit rationes Theophrasti contra Arist. 
+        Am<lb ed="#J" n="87" break="no"/>plius non est necessarium in motu locali 
+        <lb ed="#J" n="88"/>vt mouens localitur moueatur semper ad 
+        ean<lb ed="#J" n="89" break="no"/>dem dicituriam, ad quam mouetur motum. quia. 7. 
+        <lb ed="#J" n="90"/>phy. tex. com. 10. attractio pont esse ad se, &amp; ad 
+        <lb ed="#J" n="91"/>alterum, vbi Com. dicit quod in naturalibus 
+        at<lb ed="#J" n="92" break="no"/>tractio est ad se, sed in voluntarijs inuenitur 
+        <lb ed="#J" n="93"/>vtrumque. Amplius Arist. expresse determinat 
+        <lb ed="#J" n="94"/>oppositum in. S. physi. in tex. com. 36. vbi pro 
+        <lb ed="#J" n="95"/>bat quod non est necessarium omne, quod mouet, 
+        <lb ed="#J" n="96"/>moueri. quia hoc esset altero duorum modo 
+        <lb ed="#J" n="97"/>rum, vel eadem specie motus, vel altera, &amp; 
+        osten<lb ed="#J" n="98" break="no"/>dit impossibile esse vtrumque membrum, vt 
+        manife<lb ed="#J" n="99" break="no"/>ste patet ibidem dicit enim quod, si aliquid proricit, 
+        <lb ed="#J" n="100"/>non est necessario prolici secundum eundem modum 
+        <lb ed="#J" n="101"/>piectionis. &amp; mirum est de isto viro quomodo ita 
+        <lb ed="#J" n="102"/>delitat in limitatione Istius propositionis, 
+        <lb ed="#J" n="103"/>In motu autem alterationis distinguo. Quia 
+        <lb ed="#J" n="104"/>aut alterans &amp; alteratum concat in eadem 
+        mate<lb ed="#J" n="105" break="no"/>ria, aut non. Si non, pono istam conclusionem, 
+        <lb ed="#J" n="106"/>quod non oportet alterans, nen communicans in ma 
+        <lb ed="#J" n="107"/>teria cum alterate, in alterando alterari. patet 
+        <lb ed="#J" n="108"/>de coelo quid est primum alterans, &amp; tamen non 
+        <lb ed="#J" n="109"/>alteratur alteratione passiua, vt demratum 
+        <lb ed="#J" n="110"/>est in. I. coeli te. com. 30. &amp;. 23. I. Si autem communicat is 
+        <lb ed="#J" n="111"/>eadei materia cum alterato. dicoque refert 
+        di<lb ed="#J" n="112" break="no"/>cere tale alterans in alterando pati, &amp; dico¬ 
+        <!--Averroes_Physica_JuntSecunda_04-0978.xml-->
+        <pb ed="#J" n="485-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>re quod in alterando repatitur vel realteratur. 
+        <lb ed="#J" n="2"/>stat enim aliquod alterans esse adeo fortis 
+        virtu<lb ed="#J" n="3" break="no"/>tis, &amp; intantum excedere potentiam passiuam 
+        al<lb ed="#J" n="4" break="no"/>terabilis, quod assimilabit sibi in sui natura, a 
+        <lb ed="#J" n="5"/>quo tamen non realterabitur. sicut gutta aqua 
+        <lb ed="#J" n="6"/>piecta in maximum ignem extinguetur ab igne. 
+        <lb ed="#J" n="7"/>&amp; gutta vini proiecta in mari, patet quod ibi al 
+        <lb ed="#J" n="8"/>terans non realteratur ab eo quod patitur, licet 
+        <lb ed="#J" n="9"/>posset dici, quod patiatur: quia actio est merito 
+        <lb ed="#J" n="10"/>contrarietatis. &amp; quia resistit sibi, propter im 
+        <lb ed="#J" n="11"/>pedimentum contrarietatis, sic quodammodo  
+        <lb ed="#J" n="12"/>agens dicitur pati, quia ex contrario impeditur, &amp;  
+        <lb ed="#J" n="13"/>ideo temporalitur agit, tamen impedire nonest mo 
+        <lb ed="#J" n="14"/>uere, neque alterate. dicit enim Arist. in. S. phy. in 
+        <lb ed="#J" n="15"/>te. com. 32. quod repercusla sphaera a pariete non  
+        <lb ed="#J" n="16"/>dicitur moueri a pariete, sed a proiiciente, per se 
+        <lb ed="#J" n="17"/>loquendo. vt dicit Com. in com. vnde pont contin 
+        <lb ed="#J" n="18"/>gere quod passum sit adeo debile, quod non post 
+        <lb ed="#J" n="19"/>reagere. similiter patet quod non est necessarium, quod  
+        <lb ed="#J" n="20"/>omnia communicantia in materia alterentur &amp; 
+        real<lb ed="#J" n="21" break="no"/>terentur in quocumque tpere: quia cessante 
+        con<lb ed="#J" n="22" break="no"/>trarietate, desinet illa reactio, vt patet de ele 
+        <lb ed="#J" n="23"/>mentis venientibus ad mixtionem, quae licet in 
+        <lb ed="#J" n="24"/>principio, propter contrarietatem inuentam 
+        <lb ed="#J" n="25"/>alterentur vicissim, tandem cessante 
+        contra<lb ed="#J" n="26" break="no"/>rietate, deueniunt ad aliquam mensuram, secundum 
+        <lb ed="#J" n="27"/>quam compati se possunt adinuicem. &amp; sic 
+        ces<lb ed="#J" n="28" break="no"/>labit actio, quia, prouenit isto modo medium 
+        <lb ed="#J" n="29"/>ex eis talictr alteratis, quod vergit ad alteruni, 
+        <lb ed="#J" n="30"/>quod est dominans. Vnde stat quod cesset rea 
+        <lb ed="#J" n="31"/>ctio, vel propter defectum, proportionis 
+        poten<lb ed="#J" n="32" break="no"/>tiae supra resistentiam, quia virtus passi est adeo 
+        <lb ed="#J" n="33"/>debilis, quod licet possit aliqualilitur impedire, quia 
+        <lb ed="#J" n="34"/>retardat operationem agentis per aliquod 
+        <lb ed="#J" n="35"/>tpros, non tamen sufficit ad agendum: vel propter de 
+        <lb ed="#J" n="36"/>fectum contrarietatis, quia stat quod aliqua in 
+        <lb ed="#J" n="37"/>summis gradibusnon se patiantur inuicem, 
+        <lb ed="#J" n="38"/>&amp; tamen in aliquo medio possunt, sicut tenet 
+        <lb ed="#J" n="39"/>Com. 3. phy. com. 32. vel propter defectum proportio 
+        <lb ed="#J" n="40"/>nis, quia non est victoria potentiae supra 
+        re<lb ed="#J" n="41" break="no"/>sistentiam. Vnde non inuenitur ista 
+        proposi<lb ed="#J" n="42" break="no"/>tio de reactione in communicantibus in eadem ma 
+        <lb ed="#J" n="43"/>teria, intelligendo per reactionem contrario 
+        <lb ed="#J" n="44"/>motu moueri, nisi in motu alterationis 
+        pas<lb ed="#J" n="45" break="no"/>siuae, quae fit merito primarum qualitatum, quia 
+        <lb ed="#J" n="46"/>in motu locali, licet omne mouens locali 
+        <lb ed="#J" n="47"/>moueatur in mouendo, quia corpus est, non 
+        <lb ed="#J" n="48"/>tamen est necessarium quod moueatur contrario 
+        <lb ed="#J" n="49"/>motu ab illo, quod mouetur ab eo. vt si 
+        ali<lb ed="#J" n="50" break="no"/>quod mouet deorsum, quod ab illo moueatur 
+        <lb ed="#J" n="51"/>sursum. immo nec eodem motu, vt dixi de in 
+        <lb ed="#J" n="52"/>tentione Philosophi secundum speciem, similiter in motu 
+        <lb ed="#J" n="53"/>augmenti &amp; diminutionis, istam esse reactio 
+        <lb ed="#J" n="54"/>nem, quae est ex contrario motu, non est ne 
+        <lb ed="#J" n="55"/>cessarium, vt patet intuenti. licet enim augens 
+        <lb ed="#J" n="56"/>patiatur, non tamen patitur motu contrario, quia 
+        <!--Averroes_Physica_JuntSecunda_04-0978.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>videlicet diminuatur. similiter in qualitatibus se 
+        <lb ed="#J" n="58"/>cundis non est necessarium, quod si aliquid albe 
+        <lb ed="#J" n="59"/>facit aliquid, quod ab illo nigrefiat. 
+        Ponen<lb ed="#J" n="60" break="no"/>tes autem conclusiones in potentiis apprehen 
+        <lb ed="#J" n="61"/>liuis &amp; appetitiuis loquuntur extra , 
+        proposi<lb ed="#J" n="62" break="no"/>tum, &amp; dilatant vbi non opus est. qua reactio 
+        <lb ed="#J" n="63"/>conceditur ratione materiae communis. modo isti dicunt 
+        <lb ed="#J" n="64"/>duos oculos omnino similes agere &amp; reagere 
+        ad<lb ed="#J" n="65" break="no"/>inuicem. sed per aliud agunt, &amp; per aliud pa 
+        <lb ed="#J" n="66"/>tiuntur, quia agunt, vt sunt colorati, &amp; 
+        pa<lb ed="#J" n="67" break="no"/>tiuntur, vt sunt diaphani. &amp; dicunt idem 
+        age<lb ed="#J" n="68" break="no"/>re in seipsum omnino simile in actione spumali quid 
+        <lb ed="#J" n="69"/>tamen est contra Com. 3. de anima. com. 4. vhbi vult illam 
+        <lb ed="#J" n="70"/>propositionem, omne recipiens esse denuidatum a na 
+        <lb ed="#J" n="71"/>tura recepti, esse veram in actioe spumali &amp; ma 
+        <lb ed="#J" n="72"/>teriali, &amp; habet vtrobique, pro inconuenienti, 
+        <lb ed="#J" n="73"/>quod idem sit mouens &amp; motum, &amp; actu &amp; 
+        po<lb ed="#J" n="74" break="no"/>tentia. Intentio igitur Philosophi non est 
+        <lb ed="#J" n="75"/>de actione, nisi vera, quae fit per veram 
+        altera<lb ed="#J" n="76" break="no"/>tionem passiuam. nam quamuis contingere possit, 
+        <lb ed="#J" n="77"/>quod sit ista niutua actio in virtutibus apprehen 
+        <lb ed="#J" n="78"/>siuis, &amp; appetitiuis, non tamen est necessaria quia 
+        <lb ed="#J" n="79"/>multi vident &amp; non sunt visi, multi amant, &amp;  
+        <lb ed="#J" n="80"/>non sunt amati. similiter sensibile agit in sensum 
+        <lb ed="#J" n="81"/>actione spumali, et non parit a sensu, vt patet. 
+        <lb ed="#J" n="82"/>Quod aut aliqui in qualitatibus primis 
+        ne<lb ed="#J" n="83" break="no"/>gant quod non sit dria inter agere &amp; resistete, &amp; quod 
+        <lb ed="#J" n="84"/>quantum agunt, tantdum patiuntur, est contra sensuni, 
+        <lb ed="#J" n="85"/>&amp; contra Arist. &amp; omnes Medicos. Auic enim in. 4. 
+        <lb ed="#J" n="86"/>sen. I. ca. 2. d. quod frigidum in fine calefacere 
+        dif<lb ed="#J" n="87" break="no"/>ficilius est, quae calidum in fine infrigidatur &amp; Ca 
+        <lb ed="#J" n="88"/>lenus in. 7. niethodi medendi ca. 3. d. quod hu 
+        <lb ed="#J" n="89"/>mida intemperatura, vel caliditati vel 
+        frigi<lb ed="#J" n="90" break="no"/>ditati aslsociata, facilis est curae. &amp; ibidem ca. 10. 
+        <lb ed="#J" n="91"/>ex in temperaturis simplicibus deterior est. sic 
+        <lb ed="#J" n="92"/>ca, ex compositis frigida &amp; sicca. Et quod 
+        calidi<lb ed="#J" n="93" break="no"/>tas sit minus restrictiua quae frigiditas, colligi 
+        <lb ed="#J" n="94"/>tur ex mente Philosophi in. I. meteo. sum. 2. 
+        <lb ed="#J" n="95"/>ca. 2. vbi d. quod confert ad celeritatem coagula 
+        <lb ed="#J" n="96"/>tionis aquam esse pcalefactam, viendali quid iuxta Pontum 
+        <lb ed="#J" n="97"/>sunt, ad piscium venationes intercidentes gla 
+        <lb ed="#J" n="98"/>ciem aquam calidam circunfundunt arundinibus, 
+        <lb ed="#J" n="99"/>propterea quod citius coagulatur. Causa autem, propter 
+        <lb ed="#J" n="100"/>quam non potuerunt isti confessa videre, 
+        inex<lb ed="#J" n="101" break="no"/>perientia fuit vt dicit Philosophus. I. de Gene. 
+        <lb ed="#J" n="102"/>tex. com. 7. Dicamus igitur idem in agentibus 
+        <lb ed="#J" n="103"/>corporis pati &amp; agere modo praedicto. sed 
+        <lb ed="#J" n="104"/>alia est agendi ratio, alia patiendi. actio ab 
+        <lb ed="#J" n="105"/>actu, passio a potentia est. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e1921">
+               <head xml:id="gGhHfF-d1e962-Hd1e1923">Contradictio 6</head>
+               <p xml:id="gGhHfF-d1e962-d1e1926">
+                  <lb ed="#J" n="106"/>Sexta contra. est in com. 17. Quia ibi 
+        decla<lb ed="#J" n="107" break="no"/>tas quomodo semper formahent rationem agendi, &amp;  
+        <lb ed="#J" n="108"/>mouendi, declarat hoc de quantitate &amp; qua 
+        <lb ed="#J" n="109"/>litate: &amp; sic videtur ponere quantitatem esse de 
+        <lb ed="#J" n="110"/>principiis actiuis. Huius tamen oppositum ipse scri 
+        <lb ed="#J" n="111"/>bit. 7. meta. com. 32. vbi habet quod non est 
+        neces<lb ed="#J" n="112" break="no"/>sarium vt ante qualitatem generatam, aut quantita¬ 
+        <!--Averroes_Physica_JuntSecunda_04-0979.xml-->
+        <pb ed="#J" n="486-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>tem, vt etiam dicitur in litera, sit alia qualitas agens, 
+        <lb ed="#J" n="2"/>aut quantitas. similiter 4. phy. com. S9. dicit quam 
+        <lb ed="#J" n="3"/>titatem non esse de principiis actiuis: sed se 
+        <lb ed="#J" n="4"/>quitur potentias actiuas, &amp; operationes 
+        ea<lb ed="#J" n="5" break="no"/>rum. Ad hoc dicimus quantitatem non esse 
+        <lb ed="#J" n="6"/>de principiis actiuis actioe reali: bene tamen est 
+        <lb ed="#J" n="7"/>de principiis actiuis actione spumali, &amp; maxi 
+        <lb ed="#J" n="8"/>me tenendo, sicut tenet Co. 2. de anima com. 133 
+        <lb ed="#J" n="9"/>talia sensibilia communia sentiri per propriam speciem 
+        <lb ed="#J" n="10"/>In actione autem reali, licet non sit ratio ager 
+        <lb ed="#J" n="11"/>di, est tamen conditio, quia. in agentibus 
+        materiali<lb ed="#J" n="12" break="no"/>bus actio est per contactum: contangentia 
+        <lb ed="#J" n="13"/>autem sunt, quorum vltima sunt sil 3. phy. 13 Et 
+        <lb ed="#J" n="14"/>sic quoquo modo quantitas pot dici forma 
+        <lb ed="#J" n="15"/>agens, quia non pot imediate subia aliqua se 
+        <lb ed="#J" n="16"/>parata transmutare materiam, vt dicit Com. 7. 
+        <lb ed="#J" n="17"/>meta. 236. &amp;. vi. com. sic igitur cum quantum 
+        <lb ed="#J" n="18"/>agat, vt quantum, licet quantitate non agat, 
+        <lb ed="#J" n="19"/>vt principio actiuo, sed vt condione nec essa 
+        <lb ed="#J" n="20"/>rio requisita, tamen vt sic concedi poet aliquo 
+        pa<lb ed="#J" n="21" break="no"/>cto quantitatem esse de principiis actiuis, 
+        re<lb ed="#J" n="22" break="no"/>ductiue scilicet &amp; concomitanter, sicut ipsemet d. 
+        <lb ed="#J" n="23"/>quod quantitas consequitur potentias actiuas, &amp;  
+        <lb ed="#J" n="24"/>operationes ipsarum, sed ipsa formalitur non est 
+        <lb ed="#J" n="25"/>de principiis actiuis. Illud autem quid adducitur 
+        <lb ed="#J" n="26"/>ex. 7. met. 32. non videtur esse naultum ad, propositum 
+        <lb ed="#J" n="27"/>contra textum istum. &amp; com. 17. huius tertil. Quia 
+        <lb ed="#J" n="28"/>ibi Philosophus, &amp; Com. non negant qualitatem 
+        <lb ed="#J" n="29"/>vel quantitatem esse de pricipiis actiuis, sed 
+        so<lb ed="#J" n="30" break="no"/>lum dicunt, quod in subiis solum est nec essarium, quod 
+        <lb ed="#J" n="31"/>id quid generatur, generetur ab aliquo sibi siitr in 
+        <lb ed="#J" n="32"/>spe. In qualitatibus autem &amp; quantitatibus illud non 
+        <lb ed="#J" n="33"/>oportet. stat enim aliquam qualitatem generari, 
+        <lb ed="#J" n="34"/>sicut d. Com. quae tamen non generabitur a siili sibi in  
+        <lb ed="#J" n="35"/>spe pexistente, sicut qualitates, quae subsequun 
+        <lb ed="#J" n="36"/>tur formam mixitionis primarum qualitatum¬ 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e2029">
+               <head xml:id="gGhHfF-d1e962-Hd1e2031">Contradictio 7</head>
+               <p xml:id="gGhHfF-d1e962-d1e2034">
+                  <lb ed="#J" n="37"/>Septima contradi. est in com. 33. Quia ibi di 
+        <lb ed="#J" n="38"/>quod est per se notum continuum diuidi in 
+        infini<lb ed="#J" n="39" break="no"/>tum. Sexto autem phy. colligitur oppositum, quia ibi 
+        <lb ed="#J" n="40"/>demtratur, demratio autem non est ad per se 
+        <lb ed="#J" n="41"/>nota. Respondetur a Modernis: quod non 
+        in<lb ed="#J" n="42" break="no"/>conuenit vnam &amp; eandem, propositionem esse 
+        <lb ed="#J" n="43"/>per se notam in vna scia, &amp; in alia demratam 
+        <lb ed="#J" n="44"/>sicut enim docet Philosophus. i. poster. Chitur 
+        <lb ed="#J" n="45"/>gia subalternatur Mathe maticae sciae, quo 
+        <lb ed="#J" n="46"/>ad istam conclasionem, quod vulnera 
+        circu<lb ed="#J" n="47" break="no"/>laria tardius sanantur. ita etiam licet scia 
+        Na<lb ed="#J" n="48" break="no"/>turalis &amp; Mathematica non sint se inuicem 
+        <lb ed="#J" n="49"/>subalternantes simpoerctutr, tamen scia Naturalis quo 
+        <lb ed="#J" n="50"/>ad istam, propositionem subalternat sibi sciam 
+        <lb ed="#J" n="51"/>Mathematicam. nam vt inquit Com. in isto com. 
+        <lb ed="#J" n="52"/>ista est vna maxia in Mathematicis, quod  
+        <lb ed="#J" n="53"/>diuisio mensurarum tendat in infinitum. &amp;  
+        <lb ed="#J" n="54"/>Co. subdit quod hoc videtur esse per se notum. sed  
+        <lb ed="#J" n="55"/>illi, qui ponunt magnitudines componi ex 
+        <lb ed="#J" n="56"/>diuisibilibus, vt Plato, non concedent hanc 
+        <!--Averroes_Physica_JuntSecunda_04-0979.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>diuisionem. Sed vnum, per quid destruitur ista 
+        <lb ed="#J" n="58"/>opinio, est hoc principium, videlicet quod 
+        ma<lb ed="#J" n="59" break="no"/>gnitudo non componitur ex indiuilibililius. 
+        <lb ed="#J" n="60"/>&amp; islud bene destruitur per principia 
+        natura<lb ed="#J" n="61" break="no"/>lia. &amp; subdit Com quod existimatur illic scilicet in. 6. ph. 
+        <lb ed="#J" n="62"/>quod hoc demtratur in scia Natural scilicet quod 
+        con<lb ed="#J" n="63" break="no"/>tinuum sit diuisibile in infinitum. Et subdit quod  
+        <lb ed="#J" n="64"/>non est remotum. quod hoc principium sit per  
+        <lb ed="#J" n="65"/>se notum, videlicet continuum esse diuisibile 
+        <lb ed="#J" n="66"/>in infinitum, &amp; tamen sit ignotum naturaliter 
+        <lb ed="#J" n="67"/>quod continuum, vel magnitudo sit 
+        composi<lb ed="#J" n="68" break="no"/>ta ex indiuisibilibus. tamen, cum fuerit declara 
+        <lb ed="#J" n="69"/>tum magnitudines non componi ex indiui 
+        <lb ed="#J" n="70"/>sibilibus, tunc scia de hoc pricipio erit certisi 
+        <lb ed="#J" n="71"/>ata, sequitur enim ex hac positione quod 
+        magni<lb ed="#J" n="72" break="no"/>tudo diuiditur in semper diuisibilia, 
+        vtde<lb ed="#J" n="73" break="no"/>clarauit Aris. in. 6. forte igitur Ceometer po 
+        <lb ed="#J" n="74"/>nit hoc pricipium, &amp; Naturalis dissoluit hanc 
+        <lb ed="#J" n="75"/>quaestionem, vt dicamus quod islud 
+        princi<lb ed="#J" n="76" break="no"/>pium indiget demonstratione. &amp; hoc erit 
+        <lb ed="#J" n="77"/>in hac scientia. &amp; de hoc perserutabitur in 
+        <lb ed="#J" n="78"/>sexto. In quibus verbis com. secundum 
+        ex<lb ed="#J" n="79" break="no"/>ositionem Modernorum innuit duas 
+        so<lb ed="#J" n="80" break="no"/>lutiones. Vna est quod ista, continuum est 
+        <lb ed="#J" n="81"/>diuisibile in infinitum, est per se nota, tam in 
+        <lb ed="#J" n="82"/>scientia Naturali, quam in Mathematica, 
+        <lb ed="#J" n="83"/>sed ista, quod magnitudo sit composita ex 
+        <lb ed="#J" n="84"/>indiuisibilibus, est ignota, &amp; demonstatur 
+        <lb ed="#J" n="85"/>in scientia Naturali. Alia resposio est quod 
+        <lb ed="#J" n="86"/>vtraque est ignora, et vrraque est demonstrata 
+        <lb ed="#J" n="87"/>in scientia Naturali. Sed salua pace taliter 
+        <lb ed="#J" n="88"/>ex ponentium hoc non potest stare. quia 
+        <lb ed="#J" n="89"/>Commen. intra. commen. 7o. dicit super verbis 
+        <lb ed="#J" n="90"/>Philosophi, ibi, quando dicit quod post 
+        di<lb ed="#J" n="91" break="no"/>cemus de vnoquoque eorum, &amp; de causa in 
+        <lb ed="#J" n="92"/>hoc, quod omnis mensura sit in magnitudi 
+        <lb ed="#J" n="93"/>nes diuisibilis. super istis verbis dicit Cem. 
+        <lb ed="#J" n="94"/>quod hoc significat quod diuisio nmensurae 
+        sem<lb ed="#J" n="95" break="no"/>per est nota per se. &amp; quod causa eius indiget 
+        <lb ed="#J" n="96"/>de maitratione: non sicut quidam existimant, 
+        <lb ed="#J" n="97"/>quod GCeometer accipit hoc esse a Narurali. Et 
+        <lb ed="#J" n="98"/>ca igitur clarissimam sententiam Auer. contra 
+        <lb ed="#J" n="99"/>ommunem errorem Modernorum tenentium 
+        Natura<lb ed="#J" n="100" break="no"/>lem demonstrare continuum esse diuisibile i 
+        <lb ed="#J" n="101"/>infinitum. ipse enim vult hanc esse per se notam in  
+        <lb ed="#J" n="102"/>vtraque scientia, scilicet Naturali, &amp; Mathematica 
+        <lb ed="#J" n="103"/>quantum ad esse: sed bene est ignota quantum 
+        <lb ed="#J" n="104"/>ad propter quid. &amp; quo ad hoc Commen. 
+        <lb ed="#J" n="105"/>dicit illam demonstrari in scientia 
+        Natu<lb ed="#J" n="106" break="no"/>rali. &amp; illa demonstratio secundum ipsum 
+        <lb ed="#J" n="107"/>est demonstratio causae tantum, non enim 
+        <lb ed="#J" n="108"/>inconuenit aliquam propositionem, quo 
+        <lb ed="#J" n="109"/>ad quod est, notam esse, quae tamen non sit 
+        <lb ed="#J" n="110"/>euidens euidentia causae. sicut Luna ecl 
+        ipsa<lb ed="#J" n="111" break="no"/>bilem esse notum est ad sensum, non tamen 
+        <lb ed="#J" n="112"/>propter quid eclipsetur est notum. Causi 
+        <!--Averroes_Physica_JuntSecunda_04-0980.xml-->
+        <pb ed="#J" n="486-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>ligitur, propter quam continuum est diuisibile in  
+        <lb ed="#J" n="2"/>infinitum, ignota est, &amp; est ista, quia 
+        magni<lb ed="#J" n="3" break="no"/>tudo ipsa non est composita ex indiuisibilbus 
+        <lb ed="#J" n="4"/>&amp; ista demtratur in scia Narurali. &amp; sic dixit 
+        <lb ed="#J" n="5"/>Com. i com. 32. istud principium indigere 
+        demra<lb ed="#J" n="6" break="no"/>tione, scilicet demeratione causae tameu, non 
+        demra<lb ed="#J" n="7" break="no"/>tione dante causam &amp; esse, quia quantum ad 
+        <lb ed="#J" n="8"/>esse istud est per se notum, &amp; i nulla scia demon 
+        <lb ed="#J" n="9"/>stratur, &amp; sic patet quod non dedit Com. duas ramensio 
+        <lb ed="#J" n="10"/>nes, sed est vna rfisio. aniter nm Com. contradiceret 
+        <lb ed="#J" n="11"/>sibi in commento illo, &amp; in com. 7o. &amp; ita in mo 
+        <lb ed="#J" n="12"/>dico spatio sui oblitus contraria diceret. Me 
+        <lb ed="#J" n="13"/>lius est igitur exponere ipsum Auer. per 
+        ipsum<lb ed="#J" n="14" break="no"/>met, et dicere, sicut diximus, quod continuum 
+        diui<lb ed="#J" n="15" break="no"/>di in infinitum est per se notum, &amp; in nulla scia 
+        <lb ed="#J" n="16"/>domratur, sed causa eius est ignota, &amp; quo ad il 
+        <lb ed="#J" n="17"/>lud indiget deimtratione. Et ex hoc patet quod 
+        <lb ed="#J" n="18"/>solutio Modernorum non poest stare, qui volunt 
+        <lb ed="#J" n="19"/>Mathematicam subalternari Phiiosophiae Na 
+        <lb ed="#J" n="20"/>turali, quo ad islud principium, quod continuum 
+        <lb ed="#J" n="21"/>sit diuisibile in ifinitum. patet hoc esse falsum, 
+        <lb ed="#J" n="22"/>quia demrario erigitur super re ignota: istud 
+        <lb ed="#J" n="23"/>autem principium est notum per se, sicut inquit Com. 
+        <lb ed="#J" n="24"/>in vtraque scia: ergo est indemrabile in vtraque 
+        <lb ed="#J" n="25"/>Similiter patet quod frustraquaerunt super. 6. phy. vtrum 
+        <lb ed="#J" n="26"/>demratio, qua demtatur continuum esse diuisi 
+        <lb ed="#J" n="27"/>bile in infinitum, sit demiatio naturalis, vel 
+        <lb ed="#J" n="28"/>mathematica. &amp; faciunt quinterniones 
+        sa<lb ed="#J" n="29" break="no"/>tis diffusos super hoc. patet quod omnia ista sunt 
+        <lb ed="#J" n="30"/>sine proposito, quia in. 6. phy. non fuit demon 
+        <lb ed="#J" n="31"/>stratum an continuum sit diuisibile in infinitum: 
+        <lb ed="#J" n="32"/>sed causa, prper quam est diuisibile, fuit 
+        demtra<lb ed="#J" n="33" break="no"/>ta. Nota igitur mi Mecoenas solonem ista, &amp;  
+        <lb ed="#J" n="34"/>manda memoriae: quia virimagni &amp; 
+        illu<lb ed="#J" n="35" break="no"/>stres, nostri tempois super isto passu sunt de 
+        <lb ed="#J" n="36"/>cepti errore manifesto, 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e2291">
+               <head xml:id="gGhHfF-d1e962-Hd1e2293">Contradictio 8</head>
+               <p xml:id="gGhHfF-d1e962-d1e2296">
+                  <lb ed="#J" n="37"/>octaua contradi. est in com. 4 o. Quia dicit 
+        <lb ed="#J" n="38"/>pne corpus esse figuratum. Instantia est. 3. coeli 
+        <lb ed="#J" n="39"/>67. de eintis, quae nulla figuram habent. Rndetur, omne 
+        <lb ed="#J" n="40"/>corpus esse figuratum, vel ratione suae formae, vel 
+        <lb ed="#J" n="41"/>ratone continentis. Et sic elnta, quia sunt indis 
+        <lb ed="#J" n="42"/>ferenter omnium figurarum receptiua, ideo de se 
+        <lb ed="#J" n="43"/>dtunt infigurata esse: terminatur autem ipsa meri 
+        <lb ed="#J" n="44"/>to continentis, &amp; ideo merito continentis hiabunt 
+        <lb ed="#J" n="45"/>figuram, &amp; secundum eius dispositiones disponuntur, &amp;  
+        <lb ed="#J" n="46"/>ipsa. &amp; sic patet qualiter omne corpus dicitur 
+        <lb ed="#J" n="47"/>esse actu figuratum. &amp; hoc non 
+        contradi<lb ed="#J" n="48" break="no"/>eit, quod elementa de se dicantur infigurata. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e2326">
+               <head xml:id="gGhHfF-d1e962-Hd1e2328">Contradictio 9</head>
+               <p xml:id="gGhHfF-d1e962-d1e2331">
+                  <lb ed="#J" n="49"/>Nona contradi. est. 3. phy. com. 34. vbit habet 
+        <lb ed="#J" n="50"/>mundum esse in loco per partes. Huius tamen oppo 
+        <lb ed="#J" n="51"/>situm videtua sentire. 4. phy. 4 3. Rfidetur, quod hic sum 
+        <lb ed="#J" n="52"/>psit mundum pro toto vniuerso: &amp; de hoc est 
+        <lb ed="#J" n="53"/>verum ipsum esse in loco, quia partes eius 
+        <lb ed="#J" n="54"/>sunt in loco, sicut ipsemet dicit. 4. ph. c. 4 A 
+        <lb ed="#J" n="55"/>sed quondo dicicit quod mundus non mouetur per 
+        par<lb ed="#J" n="56" break="no"/>tes contra Them. ibi. sumpsit mundum pro cor¬ 
+        <!--Averroes_Physica_JuntSecunda_04-0980.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>pore coelesti, quid circulariter monetur quia 
+        ta<lb ed="#J" n="58" break="no"/>le secundum ipsum mouetur secundum torum, quantum ad for 
+        <lb ed="#J" n="59"/>mam, secundum partes vero, quantum ad formam &amp; 
+        ma<lb ed="#J" n="60" break="no"/>teriam simul: sicut ipse dicit ibi. &amp;. 6. physi. S1. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e962-Dd1e2366">
+               <head xml:id="gGhHfF-d1e962-Hd1e2368">Contradictio 10</head>
+               <p xml:id="gGhHfF-d1e962-d1e2371">
+                  <lb ed="#J" n="61"/>Decima contradi. est in com. 6o. vbi tener 
+        <lb ed="#J" n="62"/>magnitudinem tam mathematice quae naturali 
+        <lb ed="#J" n="63"/>consyderatam esse diuisibilem in infinitum. Huius 
+        <lb ed="#J" n="64"/>tamen oppositum reperitur in dictis eius. 4. ph. c. 72. 
+        <lb ed="#J" n="65"/>vbi dicit, quod licet linea, secundum quod linea, 
+        diuisibi<lb ed="#J" n="66" break="no"/>lis sit i infinitum, non tamen secundum quod est terrestris, aut 
+        <lb ed="#J" n="67"/>ignea. Soluitur Linea pont consyderari vt linea 
+        <lb ed="#J" n="68"/>praecise, &amp; sic consyderari habet a 
+        Mathema<lb ed="#J" n="69" break="no"/>tico, prout videlicet abstrabit a matheria 
+        <lb ed="#J" n="70"/>sensibili, &amp; sic diuisibilis est in infinitum. 
+        <lb ed="#J" n="71"/>Alio modo pososunt consyderari, vt est in 
+        mate<lb ed="#J" n="72" break="no"/>ria prima absolute, &amp; vt sic consyderatur a 
+        <lb ed="#J" n="73"/>Naturali. &amp; vt sic diuisibilis est in infinitum: 
+        <lb ed="#J" n="74"/>quia infinitas est ex parte materiae, finitas ve 
+        <lb ed="#J" n="75"/>ro est ex parte formae. 3. phy. com. 6x. infinitas 
+        <lb ed="#J" n="76"/>accidit materiae. secundum quod est materia. Alio mo 
+        <lb ed="#J" n="77"/>do pot considerari linea secundum quod est in 
+        mate<lb ed="#J" n="78" break="no"/>ria quali. &amp; sic a Naturali consyderatur &amp; vt 
+        <lb ed="#J" n="79"/>sic non est diuisibilis in infinitum. quia vt sic 
+        <lb ed="#J" n="80"/>concernit formam, a qua est terminatio, &amp; 
+        <lb ed="#J" n="81"/>acto. Et sic verificatur dictum com. hic de line:a 
+        <lb ed="#J" n="82"/>naturali, vt est in materia prima absolute. 
+        <lb ed="#J" n="83"/>sed 4. phy. 72. verificatur sua snia de linea na 
+        <lb ed="#J" n="84"/>turali, vt est in materia quali, sicut 
+        manife<lb ed="#J" n="85" break="no"/>stant verba eis. Vtrum autem in aliquo casu etiam 
+        <lb ed="#J" n="86"/>inea, vt in materia quali sit diuisibilis i in  
+        <lb ed="#J" n="87"/>finitum, pertinet ad quaestionem de minimis. 
+        <lb ed="#J" n="88"/>quia in via corruptionis non inconuenit in 
+        <lb ed="#J" n="89"/>multis casibus negari minima secundum multos 
+        <lb ed="#J" n="90"/>solennes Auerroistas. sed de his alias.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 6</title>
+            <author ref="#per-sdv3av">Marcantonio Zimara</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 6</title>
+               <date when="2021-02-15">February 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="500-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gGhHfF-d1e322">
+            <head xml:id="gGhHfF-d1e322-Hd1e104">Liber 6</head>
+            <p xml:id="gGhHfF-d1e322-d1e107">
+      <!--Averroes_Physica_JuntSecunda_04-1008.xml-->
+               <cb ed="#J" n="b"/>
+               <lb ed="#J" n="57"/>SOLVTIONE 
+      <lb ed="#J" n="58"/>contradictionum in dictis 
+      <lb ed="#J" n="59"/>Arist. &amp; Auerr onis. 
+      <lb ed="#J" n="60"/>Super Sexto Physicorum. 
+    </p>
+            <div xml:id="gGhHfF-d1e322-Dd1e123">
+               <head xml:id="gGhHfF-d1e322-Hd1e125">Contradictio 1</head>
+               <p xml:id="gGhHfF-d1e322-d1e128">
+                  <lb ed="#J" n="61"/>Contradictio est in sexto phy¬ 
+        <lb ed="#J" n="62"/>in com. i6. Dicit Commenta. 
+        <lb ed="#J" n="63"/>quod exempla, quae adducuntur 
+        <lb ed="#J" n="64"/>in literis. adducuntur vt 
+        ser<lb ed="#J" n="65" break="no"/>mo sit manifestior. Huius 
+        ta<lb ed="#J" n="66" break="no"/>men oppositum ipse scribit. 4. physic. com. 
+        <lb ed="#J" n="67"/>7I. Soluitur, quod exemplificatio in literis ad 
+        <lb ed="#J" n="68"/>duo potest comparari, videlicet ad 
+        mate<lb ed="#J" n="69" break="no"/>riam subiectam. de qua est sermo. &amp; sic 
+        ta<lb ed="#J" n="70" break="no"/>lis dicitur esse manifestatiua sermonis. &amp;  
+        <lb ed="#J" n="71"/>isto modo vntur Philosophus plerunque in 
+        <lb ed="#J" n="72"/>libro priorum, &amp; in libro posteriorum. Alio 
+        <lb ed="#J" n="73"/>modo potest comparari ad exempla 
+        consi<lb ed="#J" n="74" break="no"/>milia in materia determinata, &amp; sic est mi 
+        <lb ed="#J" n="75"/>nus manifesta. &amp; quando secunda sequitur primam, 
+        <lb ed="#J" n="76"/>sic sermo redditur manifestior. Et isto 
+        se<lb ed="#J" n="77" break="no"/>cundo modo loquebatur Commenta. A. 
+        <lb ed="#J" n="78"/>phyfico. commen. vt. inquit enim &amp; cum 
+        <lb ed="#J" n="79"/>dedit exemplum de literis, deditexemplum 
+        <lb ed="#J" n="80"/>de materijs, vt demonstratio sit 
+        manife<lb ed="#J" n="81" break="no"/>stior. Primo autem modo loquebatur hic. 
+        <lb ed="#J" n="82"/>quia dicit quod Aristote. addluxit 
+        exem<lb ed="#J" n="83" break="no"/>plum in literis, vt sermo eius sit manifestius. 
+        <lb ed="#J" n="84"/>quando enim casus ponit in terminis, 
+        red<lb ed="#J" n="85" break="no"/>ditur vtique clarior. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e322-Dd1e186">
+               <head xml:id="gGhHfF-d1e322-Hd1e188">Contradictio 2</head>
+               <p xml:id="gGhHfF-d1e322-d1e191">
+                  <lb ed="#J" n="86"/>Secunda contradictio est in com. Ar. 
+        ha<lb ed="#J" n="87" break="no"/>pet Commen quod transmutatio in substantia 
+        <lb ed="#J" n="88"/>est principaliter transmutatio. Huius tamen 
+        <lb ed="#J" n="89"/>oppositum dixit in hoc sexto commen. 32. 
+        <lb ed="#J" n="90"/>vbi dixit transmutationem in substantia 
+        <lb ed="#J" n="91"/>non esse transmutationem, sed finem trans 
+        <lb ed="#J" n="92"/>mutationis. sicut vniuersaliter est de 
+        quali<lb ed="#J" n="93" break="no"/>pet transmutatione indiuisibili, sicut habet 
+        <lb ed="#J" n="94"/>etiam ipse. 4. phyfico. commen. 129. vbi 
+        ha<lb ed="#J" n="95" break="no"/>per transmutationem dici aequiuoce de 
+        <lb ed="#J" n="96"/>trasmutatione per se, &amp; de transmutatione 
+        <lb ed="#J" n="97"/>quae non est per se, sed est finis 
+        transmuta<lb ed="#J" n="98" break="no"/>tionis. &amp; consimilem sententiam habet 
+        ip<lb ed="#J" n="99" break="no"/>se. 6. physic. in commen. 49. Soluitur trant 
+        <lb ed="#J" n="100"/>mutatio in substantia dicitur simpliciter, 
+        <lb ed="#J" n="101"/>&amp; principaliter transmutatio 
+        terminati<lb ed="#J" n="102" break="no"/>ue, quia terminatur ad illud, quod est 
+        sim<lb ed="#J" n="103" break="no"/>pliciter, &amp; principaliter ens. 7. metaphy. te. 
+        <lb ed="#J" n="104"/>commen. 4. substantia praecedit accidens. 
+        <lb ed="#J" n="105"/>Et sic dixit Philosophus primo de 
+        genera<lb ed="#J" n="106" break="no"/>tione. tex. com. 1i. &amp;. 3. physico. tex. com. 7. 
+        <lb ed="#J" n="107"/>generatio substantiae est fimpliciter 
+        trans<lb ed="#J" n="108" break="no"/>niut atio, accidentium vero non est 
+        simpli<lb ed="#J" n="109" break="no"/>citer transmutatio, sed est aliqua trans¬ 
+        <!--Averroes_Physica_JuntSecunda_04-1009.xml-->
+        <pb ed="#J" n="501-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>naetatio, &amp; quaedam cuiusdam. tamen in  
+        <lb ed="#J" n="2"/>ratione motus formaliter sumpti transmu 
+        <lb ed="#J" n="3"/>tatio in substanta non dicitur 
+        principali<lb ed="#J" n="4" break="no"/>ter transmutatio, sed est finis 
+        transmuta<lb ed="#J" n="5" break="no"/>tionis, nec est motus, sed sequitur motum 
+        <lb ed="#J" n="6"/>Et sic authoritates contrariae procedunt 
+        <lb ed="#J" n="7"/>vijs suis, 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e322-Dd1e268">
+               <head xml:id="gGhHfF-d1e322-Hd1e270">Contradictio 3</head>
+               <p xml:id="gGhHfF-d1e322-d1e273">
+                  <lb ed="#J" n="8"/>Tertia contradictio est in eodem com. Al. 
+        <lb ed="#J" n="9"/>Dicit inter non ens &amp; ens nihil mediat. Huius 
+        <lb ed="#J" n="10"/>tamen oppositum habet. I. phy. com. 79. &amp;. 12. 
+        <lb ed="#J" n="11"/>meta, com. it. &amp;. 3. phy. com. 3. de materia. Solui 
+        <lb ed="#J" n="12"/>tur. 12. meta. com. I2. Non ens sumitur 
+        tripli<lb ed="#J" n="13" break="no"/>citer. Primo, pro illo, quod non habet esse, 
+        <lb ed="#J" n="14"/>nec imaginationem. &amp; istud est vere nihili 
+        <lb ed="#J" n="15"/>&amp; solum illud. vnde illud, quod non habet 
+        <lb ed="#J" n="16"/>esse, nec imaginationem, est illud, quod im 
+        <lb ed="#J" n="17"/>plicat contradictionem, &amp; tale est vere nihil 
+        <lb ed="#J" n="18"/>nam tale non potest facere vnum per se com 
+        <lb ed="#J" n="19"/>ceptum, nec sicut obiectum cum obiecto, 
+        <lb ed="#J" n="20"/>nec sicut inodus cum obiecto, sicut dicit 
+        <lb ed="#J" n="21"/>Subrilis doctor in secunda quaestio. 
+        Quoli<lb ed="#J" n="22" break="no"/>betorum, &amp; Commentato. 4. meteororum 
+        <lb ed="#J" n="23"/>commento nono, qui dicit aliquod 
+        intelli<lb ed="#J" n="24" break="no"/>gibile, ponit hoc fundamentum quod 
+        op<lb ed="#J" n="25" break="no"/>posita non congregantur insimiul. Alio mo 
+        <lb ed="#J" n="26"/>do sumitur pro priuatione existente in pri 
+        <lb ed="#J" n="27"/>ma materia. Tertio modo sumitor pro 
+        il<lb ed="#J" n="28" break="no"/>lo, quod non est in actu. Tunc dicitur quod 
+        <lb ed="#J" n="29"/>inter non ens primo modo, &amp; ens nihil, 
+        ca<lb ed="#J" n="30" break="no"/>dit medium: quia talia contradictorie 
+        op<lb ed="#J" n="31" break="no"/>ponuntur, quorum non est medium secun 
+        <lb ed="#J" n="32"/>dum se inuenire primo post. &amp; 10o. metaph. 
+        <lb ed="#J" n="33"/>tex. com. 13. &amp; sic loquitur Commenta. in hoc 
+        <lb ed="#J" n="34"/>com. A4i. huius sexti. Sed inter non ens primo 
+        <lb ed="#J" n="35"/>modo scilicet inter non ens simpliciter &amp; ens in  
+        <lb ed="#J" n="36"/>actu, est bene dare medium. &amp; istud est ens 
+        <lb ed="#J" n="37"/>in potentia, talia autem non opponuntur 
+        <lb ed="#J" n="38"/>contradictorie. vnde ens in potentia non est 
+        <lb ed="#J" n="39"/>vere nihil neque est ens, sicut Philosophus 
+        <lb ed="#J" n="40"/>dicit: sed mediat inter vtrunque, &amp; sic 
+        lo<lb ed="#J" n="41" break="no"/>quitur Commen. in aliis locis allegatis. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e322-Dd1e351">
+               <head xml:id="gGhHfF-d1e322-Hd1e353">Contradictio 4</head>
+               <p xml:id="gGhHfF-d1e322-d1e356">
+                  <lb ed="#J" n="42"/>Quarta contradi. est in com. 39. Scribit 
+        <lb ed="#J" n="43"/>Commen. accidentia carnis induci in ma 
+        <lb ed="#J" n="44"/>teria ante formam substantialem carnis, 
+        <lb ed="#J" n="45"/>Huius tamen oppositum habet primo cap 
+        <lb ed="#J" n="46"/>de substantia orbis, vbi dicitur quod acciden 
+        <lb ed="#J" n="47"/>tia consequentia formam sequuntur 
+        for<lb ed="#J" n="48" break="no"/>mam. Accedit ad hoc quod subiectum 
+        accidem<lb ed="#J" n="49" break="no"/>tium est ens in actu. 2. de anima. com. 4. &amp;  
+        <lb ed="#J" n="50"/>alibi frequenter. Soluitur. accidentia sunt 
+        <lb ed="#J" n="51"/>in duplici differentia, quaedam in fieri, &amp; ta 
+        <lb ed="#J" n="52"/>lia ab Auerroislis interminata dicit 
+        con<lb ed="#J" n="53" break="no"/>sueuerunt. &amp; quaedam sunt in facto esse, &amp;  
+        <lb ed="#J" n="54"/>talia dicta sunt terminata. Tunc dicimus 
+        <lb ed="#J" n="55"/>accidentia in fieri praecedere formam in 
+        ma<lb ed="#J" n="56" break="no"/>vetia, sed terminata sunt post formam po¬ 
+        <!--Averroes_Physica_JuntSecunda_04-1009.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>sterioritate naturae, non temporis: vt scribiet 
+        <lb ed="#J" n="58"/>ipse primo capitu. de substan. orbis. Replica 
+        <lb ed="#J" n="59"/>primo de generatione &amp; corruptione, gene 
+        <lb ed="#J" n="60"/>ratio est transmutatio totius in totum 
+        nul<lb ed="#J" n="61" break="no"/>lo sensibili remanente ergo videtur quod 
+        om<lb ed="#J" n="62" break="no"/>nia accidentia fundentur in composito, &amp;  
+        <lb ed="#J" n="63"/>per consqeuens non est dare accidentia prae 
+        <lb ed="#J" n="64"/>cedentia formam in materia. Soluitur. ibidem 
+        <lb ed="#J" n="65"/>dicitur nullo sensibili remanente vt 
+        subie<lb ed="#J" n="66" break="no"/>cto. vnde accidentia interminata, licet 
+        prae<lb ed="#J" n="67" break="no"/>cedant formam in materia secundum 
+        Auer<lb ed="#J" n="68" break="no"/>propter hoc tamen non dicimus ea 
+        conue<lb ed="#J" n="69" break="no"/>nire in ratione subiecti, sed sunt 
+        dispositio<lb ed="#J" n="70" break="no"/>nes subiecti, quod est materia. Et hoc aduer 
+        <lb ed="#J" n="71"/>tens Commenta. dixit. 2. de anima com. A4. 
+        <lb ed="#J" n="72"/>subiectum formae substantialis, secundum 
+        <lb ed="#J" n="73"/>quod est subiectum, est ens in pura 
+        poten<lb ed="#J" n="74" break="no"/>tia: dans intelligere nullam aliam rem 
+        ha<lb ed="#J" n="75" break="no"/>bere rationem subiectiuam praeter ipsam 
+        <lb ed="#J" n="76"/>materiam. Replica. tunc ergo accidens 
+        re<lb ed="#J" n="77" break="no"/>manebit corrupto subiecto, &amp; migrabit de 
+        <lb ed="#J" n="78"/>subiecto in subiectum. Solultur. licet 
+        pro<lb ed="#J" n="79" break="no"/>ximum subiectum alterationis sit 
+        compo<lb ed="#J" n="80" break="no"/>situm, radicale autem est ipsa materia, quae  
+        <lb ed="#J" n="81"/>est pars essentialis compositi. non enim 
+        <lb ed="#J" n="82"/>oportet, vt inquit Commenta. primo de ge 
+        <lb ed="#J" n="83"/>neratione commen. I. quod subiectum 
+        trans<lb ed="#J" n="84" break="no"/>niutationis substantialis sit aliud a 
+        subie<lb ed="#J" n="85" break="no"/>ctis aliarum transmutationum: alioquin 
+        <lb ed="#J" n="86"/>sublato tali subiecto, remanere possent su¬. 
+        <lb ed="#J" n="87"/>biecta aliarum transmutationum: quod est 
+        <lb ed="#J" n="88"/>merum impossibile. &amp; sic non est ibi 
+        tran<lb ed="#J" n="89" break="no"/>situs de subiecto in subiectum, quia manet 
+        <lb ed="#J" n="90"/>subiectum radicale taliumaccidentium in 
+        <lb ed="#J" n="91"/>aduentu formae, quae inducitur, sicut mane 
+        <lb ed="#J" n="92"/>bat in corruptione formae praeexistentis. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e322-Dd1e474">
+               <head xml:id="gGhHfF-d1e322-Hd1e476">Contradictio 5</head>
+               <p xml:id="gGhHfF-d1e322-d1e479">
+                  <lb ed="#J" n="93"/>Quinta contradictio est in comen. S6. 
+        <lb ed="#J" n="94"/>Dicit Philosophus &amp; Commen. quod indiuisibile 
+        <lb ed="#J" n="95"/>mouetur per accidens. Instantia est de 
+        po<lb ed="#J" n="96" break="no"/>lis ipsius orbis, qui omnibus modis sunt im 
+        <lb ed="#J" n="97"/>mobiles, sicut patet. 2. coeli com. 14. Soluitur. 
+        <lb ed="#J" n="98"/>ibidem dicitur quod quies polorum est quies 
+        <lb ed="#J" n="99"/>metaphorica, &amp; non est vera quies. Sed ista 
+        <lb ed="#J" n="100"/>propositio, in qua communiter dici solet 
+        po<lb ed="#J" n="101" break="no"/>los orbis immobiles esse omnibus modis, 
+        <lb ed="#J" n="102"/>verifieatur ad imaginationem 
+        Mathema<lb ed="#J" n="103" break="no"/>ticorum, abstrabentium a motu. propositio 
+        <lb ed="#J" n="104"/>nes enim ipsorum ferem omnes sunt verae ad 
+        imagi<lb ed="#J" n="105" break="no"/>nationem. 3 phy. com. &amp;o. Naturaliter tamen loquem 
+        <lb ed="#J" n="106"/>do, ipsi poli, siue sint aliquid diuisibile, siue 
+        <lb ed="#J" n="107"/>indiuisibile, mouentur per accidens ad mo 
+        <lb ed="#J" n="108"/>tum orbis, in quo sunt formaliter. Et ex hoc 
+        <lb ed="#J" n="109"/>patet quod illi, qui tenent intelligentiam esse 
+        <lb ed="#J" n="110"/>formam coeli, non recte respondent ad 
+        argu<lb ed="#J" n="111" break="no"/>mentum, per quod probatur quod tunc ipsa 
+        <lb ed="#J" n="112"/>moueretur per accidens. quia omne, quod 
+        <!--Averroes_Physica_JuntSecunda_04-1010.xml-->
+        <pb ed="#J" n="501-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>formaliter est in te mota, sicut forma infor 
+        <lb ed="#J" n="2"/>mans, vel sicut pars in toto, vel sicut 
+        termi<lb ed="#J" n="3" break="no"/>nus in terminato, mouetur ad motum rei 
+        <lb ed="#J" n="4"/>motae per accidens. Quidam solemnis doctor 
+        <lb ed="#J" n="5"/>voluit mihi soluere illud argumentum, da 
+        <lb ed="#J" n="6"/>do instantiam de polis mundi, qui formali 
+        <lb ed="#J" n="7"/>ter inexistunt orbi, &amp; tamen non sunt 
+        mo<lb ed="#J" n="8" break="no"/>biles aliquo pacto, neque per se, neque per 
+        acci<lb ed="#J" n="9" break="no"/>dens. Sed ego replicaui per authoritatem al 
+        <lb ed="#J" n="10"/>legatam Auer. in commento allegato. I. de 
+        <lb ed="#J" n="11"/>coelo, &amp; in. 4. phy. com. 136. vbi habet quod quies 
+        <lb ed="#J" n="12"/>polorum est transumptiua, &amp; secundum 
+        similitudi<lb ed="#J" n="13" break="no"/>nem. Et facta replica nesciuit amplius loqui 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

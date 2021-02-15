@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 5</title>
+            <author ref="#per-sdv3av">Marcantonio Zimara</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 5</title>
+               <date when="2021-02-15">February 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="498-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gGhHfF-d1e304">
+            <head xml:id="gGhHfF-d1e304-Hd1e104">Liber 5</head>
+            <p xml:id="gGhHfF-d1e304-d1e107">
+               <lb ed="#J" n="98"/>SOLVTIONES 
+      <lb ed="#J" n="99"/>Contradictionum in dictis 
+      <lb ed="#J" n="100"/>Arist. &amp; Auerrois, 
+      <lb ed="#J" n="101"/>super Quinto Physicorum.
+    </p>
+            <div xml:id="gGhHfF-d1e304-Dd1e118">
+               <head xml:id="gGhHfF-d1e304-Hd1e120">Contradictio 1</head>
+               <p xml:id="gGhHfF-d1e304-d1e123">
+                  <lb ed="#J" n="102"/>Ontradictio est in 9. physicao 
+        <lb ed="#J" n="103"/>super tex. 7. Aristote. enim 
+        <lb ed="#J" n="104"/>scribit quod transitio de non 
+        <lb ed="#J" n="105"/>subiecto in subiectum 
+        secun<lb ed="#J" n="106" break="no"/>dem contradictionem gene, 
+        <lb ed="#J" n="107"/>ratio est. Sed obuiabam. quia transitio 
+        <lb ed="#J" n="108"/>inter contradictoria non fit per medium, 
+        <!--Averroes_Physica_JuntSecunda_04-1005.xml-->
+        <pb ed="#J" n="499-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>sed transitio de non esse ad esse per med. um 
+        <lb ed="#J" n="2"/>sieri solet, vt testatur Philosophus in 
+        quin<lb ed="#J" n="3" break="no"/>to de generatione animalium capitulo pri 
+        <lb ed="#J" n="4"/>mo. Soluitur. inter non esse &amp; esse 
+        abso<lb ed="#J" n="5" break="no"/>lute non est medium, &amp; talia sunt 
+        extre<lb ed="#J" n="6" break="no"/>ma contradictionis &amp; generationis: sed 
+        in<lb ed="#J" n="7" break="no"/>ter non esse simpliciter, &amp; esse in actu 
+        se<lb ed="#J" n="8" break="no"/>cundo, quod est esse perfectum, mediat 
+        <lb ed="#J" n="9"/>actus primus. &amp; ita Aristoteles dicit 
+        aliter<lb ed="#J" n="10" break="no"/>nansiri ex pura priuatione ad actum secun 
+        <lb ed="#J" n="11"/>dum per actum primum. qui secundo de 
+        <lb ed="#J" n="12"/>anima est, sicut somnus, &amp; scientia: actus 
+        <lb ed="#J" n="13"/>vero secundus est sicut vigilia, &amp; sicut 
+        con<lb ed="#J" n="14" break="no"/>syderare. &amp; illo modo Aristoteles loquitur, 
+        <lb ed="#J" n="15"/>ibi asserens, quod transitio de non esse ad 
+        <lb ed="#J" n="16"/>esse per medium fieri solet, quaesiuit enim 
+        <lb ed="#J" n="17"/>ibi vtrum in prima animalis generatione 
+        <lb ed="#J" n="18"/>somnus praecedat vigiliam, an vigilia 
+        som<lb ed="#J" n="19" break="no"/>num, &amp; asserit, propterea quia somnus ta 
+        <lb ed="#J" n="20"/>lis sua natura esse videtur, vt viuendi, &amp;  
+        <lb ed="#J" n="21"/>non viuendi interliminium est, &amp; neque 
+        <lb ed="#J" n="22"/>omnino sit qui dormit, neque non sit: vi 
+        <lb ed="#J" n="23"/>uitur enim potissimum propter sensum 
+        <lb ed="#J" n="24"/>sed, si animal habere sensum necesse est, 
+        <lb ed="#J" n="25"/>&amp; tunc primum est animal cum primum 
+        <lb ed="#J" n="26"/>contingit sensus, primam illam 
+        dispositio<lb ed="#J" n="27" break="no"/>nem non somnum, sed similem somno pu 
+        <lb ed="#J" n="28"/>tandum est, &amp;c. ibi vult actum primum 
+        <lb ed="#J" n="29"/>mediare inter non esse &amp; esse in actu 
+        se<lb ed="#J" n="30" break="no"/>cundo &amp; perfecto, 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e213">
+               <head xml:id="gGhHfF-d1e304-Hd1e215">Contradictio 2</head>
+               <p xml:id="gGhHfF-d1e304-d1e218">
+                  <lb ed="#J" n="31"/>Secunda contradictio est in commento 
+        <lb ed="#J" n="32"/>octauo. Dicit Commen. quod materia non  
+        <lb ed="#J" n="33"/>est in loco. oppositum apparet primo de 
+        <lb ed="#J" n="34"/>generatione commen. 27. vbi dicitur 
+        quo<lb ed="#J" n="35" break="no"/>illud, ex quo aliquid generatur, necesse est 
+        <lb ed="#J" n="36"/>vt sit in loco. Soluitur. materiam non esse 
+        <lb ed="#J" n="37"/>in loco per se, sed per accidens. ratione 
+        vi<lb ed="#J" n="38" break="no"/>delicet totius generati, cuius ipsa est pars, 
+        <lb ed="#J" n="39"/>quod quidem per se est in loco. Et 
+        Philoso<lb ed="#J" n="40" break="no"/>phus destruit hic materiam non esse in 
+        lo<lb ed="#J" n="41" break="no"/>co, vt est separata a physicis corporibus, vt 
+        <lb ed="#J" n="42"/>imaginabantur Antiqui. tamen vt est in 
+        phy<lb ed="#J" n="43" break="no"/>sicis corporibus, sic est in loco per accidens:  
+        <lb ed="#J" n="44"/>quia locatur ad locationem illius, cui per 
+        <lb ed="#J" n="45"/>se debetur locus. Esset tamen hic locus 
+        <lb ed="#J" n="46"/>dubitation is in via Commenta. an mate 
+        <lb ed="#J" n="47"/>ria sit in loco non ratione totius, sed 
+        ratio<lb ed="#J" n="48" break="no"/>ne sui, vel ratione alicuius consequentis ad 
+        <lb ed="#J" n="49"/>ipsam. Et videtur quod sic. nam stantibus 
+        <lb ed="#J" n="50"/>quantitatibus interminatis coxeternis ipsi 
+        <lb ed="#J" n="51"/>materiae, videtur quod sibi debetur locus 
+        <lb ed="#J" n="52"/>Nam videtur quod ratio locandi absolute 
+        <lb ed="#J" n="53"/>sumatur a quantitate, iuxta illud 
+        Philoso<lb ed="#J" n="54" break="no"/>phi quarto physico. textu commen. 76. Si 
+        <lb ed="#J" n="55"/>corpus cubum separatum a qualitatibus 
+        <lb ed="#J" n="56"/>fensibilibus ponatur in aqua, tantum cedit 
+        <!--Averroes_Physica_JuntSecunda_04-1005.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>sibi aqua, quanta est sua dimensio. Ad hoc s 
+        <lb ed="#J" n="58"/>diceretur quod materia sub quantitatibus 
+        in<lb ed="#J" n="59" break="no"/>terminatis consyderata vt abstrabit ab om 
+        <lb ed="#J" n="60"/>ni forma substantiali, &amp; ab omni qualitate 
+        <lb ed="#J" n="61"/>sensibili, vt sic non est ens, nisi in anima secundum 
+        <lb ed="#J" n="62"/>viam Auerr. 12. meta. com. 14. &amp; ita etiam 
+        <lb ed="#J" n="63"/>dicetetur esse in loco secundum imaginationem, 
+        <lb ed="#J" n="64"/>aut diceretur esse in loco indeterminate. 
+        <lb ed="#J" n="65"/>sed quod sit in aliquo loco determinato requi 
+        <lb ed="#J" n="66"/>ritur quantitas terminata &amp; forma, ad quam 
+        <lb ed="#J" n="67"/>consequitur talis quantitas. &amp; sic dicimus 
+        <lb ed="#J" n="68"/>subiectum generationis non occupare. 
+        lo<lb ed="#J" n="69" break="no"/>cum determinatum, &amp; si illud sit materia 
+        <lb ed="#J" n="70"/>quanta. Soluitur igitur contradictio quod 
+        <lb ed="#J" n="71"/>Commen. non dixit quod illud, ex quo aliquid 
+        <lb ed="#J" n="72"/>generatur sit in loco per se, sed dixit quod hoc 
+        <lb ed="#J" n="73"/>est, aut per se, aut per accidens, sicut dicimus 
+        <lb ed="#J" n="74"/>de materia. ecce quod vult materiam esse 
+        <lb ed="#J" n="75"/>in loco per accidens. fed quando dixit: 
+        f<lb ed="#J" n="76" break="no"/>physico. commen. 6. quod materia non est in 
+        lo<lb ed="#J" n="77" break="no"/>co, intellexit eam non esse in loco per se. &amp;  
+        <lb ed="#J" n="78"/>ista non contradicunt. Aut aliter, non est 
+        <lb ed="#J" n="79"/>in loco determinato, est bene in loco 
+        inde<lb ed="#J" n="80" break="no"/>terminato. Sed prima solutio est magis ad 
+        <lb ed="#J" n="81"/>mentem Philosophi, &amp; Commenta. primo 
+        <lb ed="#J" n="82"/>de generatione tex. commen. 2. 7. sicut 
+        vide<lb ed="#J" n="83" break="no"/>re poteris. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e341">
+               <head xml:id="gGhHfF-d1e304-Hd1e343">Contradictio 3</head>
+               <p xml:id="gGhHfF-d1e304-d1e346">
+                  <lb ed="#J" n="84"/>Tertia contradi. est in com. 9. Dicit Com. 
+        <lb ed="#J" n="85"/>quod contrarietas, quae est in loco,latet. &amp; ean 
+        <lb ed="#J" n="86"/>dem sententiam habet. S. physico. com. 16. 
+        <lb ed="#J" n="87"/>Huius tamen oppositum videtur dicere. S. 
+        <lb ed="#J" n="88"/>metaphysi. commen. 4. &amp;. 10. metaphy. com. 13. 
+        <lb ed="#J" n="89"/>vbi habet quod contrarietas in rei veritate 
+        pri<lb ed="#J" n="90" break="no"/>mo inuenitur in eis, quae sunt in loco, ideo 
+        <lb ed="#J" n="91"/>accepta est in definitione contrariorum 
+        di<lb ed="#J" n="92" break="no"/>stantia, cum dicitur, contraria sunt, quae sub 
+        <lb ed="#J" n="93"/>eodem genere posita maxime distant. 
+        Re<lb ed="#J" n="94" break="no"/>spondetur, vtdigem Commen. 4. coeli, com. 36. 
+        <lb ed="#J" n="95"/>quod contrarietas, quae est in forma, &amp; qualita 
+        <lb ed="#J" n="96"/>te, &amp; in loco, dicitur aequiuoce. quia 
+        contra<lb ed="#J" n="97" break="no"/>ria in qualitate, &amp; in aliis praedicamentis 
+        <lb ed="#J" n="98"/>sunt solum duo in forma, &amp; sunt vnum in 
+        <lb ed="#J" n="99"/>subiecto: sed contraria in loco sunt 
+        contra<lb ed="#J" n="100" break="no"/>ria tam secundum subiectum, quam secundum 
+        <lb ed="#J" n="101"/>forram. Et quia de ratione contrariorum 
+        <lb ed="#J" n="102"/>est distantia: &amp; plus distant illa, quae sunt 
+        <lb ed="#J" n="103"/>duo in forma, &amp; duo in subiecto, quam 
+        il<lb ed="#J" n="104" break="no"/>a, quae sunt duo in forma &amp; vnum 
+        subie<lb ed="#J" n="105" break="no"/>cto: ideo contrarietas ex natura rei primo 
+        <lb ed="#J" n="106"/>competit contrarijs in loco quam aliis con 
+        <lb ed="#J" n="107"/>trarijs. Accedit ad hoc, vt dicit etiam Com. 
+        <lb ed="#J" n="108"/>to. meta. com. 13. distantia in loco est 
+        maxi<lb ed="#J" n="109" break="no"/>ma, scilicet centri ad circumferentiam: &amp; ista 
+        di<lb ed="#J" n="110" break="no"/>stantia est causa in contrarietate 
+        substan<lb ed="#J" n="111" break="no"/>tiarum corporum propriorum istis locis. ideo 
+        <lb ed="#J" n="112"/>contrarietas primo repetitur ex materia rei 
+        <!--Averroes_Physica_JuntSecunda_04-1006.xml-->
+        <pb ed="#J" n="499-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>in loco, quam in aliis contrarijs aliorum prae 
+        <lb ed="#J" n="2"/>dicamentorum. Et hoc etiam asseruit Com. 
+        <lb ed="#J" n="3"/>9. phy. com. 3. dum dicit quod corpora contraria 
+        <lb ed="#J" n="4"/>secundum naturam mouentur ad loca contraria 
+        <lb ed="#J" n="5"/>secundum naturam. quia loca non solum 
+        <lb ed="#J" n="6"/>sunt extre ma vnius lineae rectae longissimae 
+        <lb ed="#J" n="7"/>sed &amp; cum hoc sunt contraria secundum potentiam. 
+        <lb ed="#J" n="8"/>res enim, quarum substantiae sunt similes 
+        <lb ed="#J" n="9"/>contrarijs, habent substantias contrarias 
+        <lb ed="#J" n="10"/>aliquo modo. ecce quod vult 
+        contrarieta<lb ed="#J" n="11" break="no"/>tem in loco esse causam contrarietatis in 
+        <lb ed="#J" n="12"/>substantia, &amp; in qualitate: eo modo, quo in  
+        <lb ed="#J" n="13"/>substantiis contingit substantiam 
+        substan<lb ed="#J" n="14" break="no"/>tiae contrariam esse. Et, licet ita sit quod 
+        com<lb ed="#J" n="15" break="no"/>trarietas primo reperiatur in loco, tamen 
+        <lb ed="#J" n="16"/>non est notum quod omne, quod localiter 
+        <lb ed="#J" n="17"/>mouetur, contrarietatem talem habeat. &amp;  
+        <lb ed="#J" n="18"/>sic dixit Commentator in hoc quinto, com. 1S. 
+        <lb ed="#J" n="19"/>&amp; octauo physic. I6. &amp; sexto physico. com. 
+        <lb ed="#J" n="20"/>S2. quod contrarietas, quae est in loco, later 
+        <lb ed="#J" n="21"/>non quia illa lateat quod sit contrarietas, 
+        <lb ed="#J" n="22"/>immo est prima &amp; causa aliarum, &amp; 
+        poni<lb ed="#J" n="23" break="no"/>tur in diuisione aliorum tanquam notior, 
+        <lb ed="#J" n="24"/>sed latet penes hoc, quod non est notum 
+        <lb ed="#J" n="25"/>per se eam inesse cuilibet mobili, quod mo 
+        <lb ed="#J" n="26"/>uetur motu locali. &amp; sic nulla est 
+        contradi<lb ed="#J" n="27" break="no"/>ctio, sicut vides Sed contra 
+        determinatio<lb ed="#J" n="28" break="no"/>nem istam dubitauit subtiliter magnificen 
+        <lb ed="#J" n="29"/>tia tua. quia tunc non esset vera contrariorum 
+        <lb ed="#J" n="30"/>descriptio, dicens, contraria sunt, quae 
+        ha<lb ed="#J" n="31" break="no"/>bent fieri circa idem subiectum non simuli 
+        <lb ed="#J" n="32"/>sed successiue: modo, si contraria in loco 
+        <lb ed="#J" n="33"/>sunt duo in subiecto, &amp; duo in forma, 
+        nun<lb ed="#J" n="34" break="no"/>quam igitur aliquo modo circa idem subie 
+        <lb ed="#J" n="35"/>ctum habent fueri, nec simul, nec successiue. 
+        <lb ed="#J" n="36"/>Et ad hoc dixi quod argumentum tuum 
+        <lb ed="#J" n="37"/>demonstrat. nam locus superior vniuersi 
+        <lb ed="#J" n="38"/>nunquam fiet inferior. &amp; dixi descriptio 
+        <lb ed="#J" n="39"/>nem illam verificari de contrarijs in 
+        quali<lb ed="#J" n="40" break="no"/>ate, non de contrarijs in loco, &amp; dixi cum 
+        <lb ed="#J" n="41"/>Auerroi commen. 3g. quarti de coelo 
+        con<lb ed="#J" n="42" break="no"/>trarietatem non dici vniuoce, sed equiuoce 
+        <lb ed="#J" n="43"/>vel analogice de his &amp; de illis. Aut aliter. 
+        ali<lb ed="#J" n="44" break="no"/>quid conuenit alicui ratione generis, quod 
+        <lb ed="#J" n="45"/>tamen repugnat eidem ratione speciei 
+        <lb ed="#J" n="46"/>sicut patet sexto physicorum commento 
+        <lb ed="#J" n="47"/>decimoquinto &amp; septimo physicorum 
+        com<lb ed="#J" n="48" break="no"/>mento secundo 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e524">
+               <head xml:id="gGhHfF-d1e304-Hd1e526">Contradictio 4</head>
+               <p xml:id="gGhHfF-d1e304-d1e529">
+                  <lb ed="#J" n="49"/>Quarta contradi. est in eom. 19. 
+        Com<lb ed="#J" n="50" break="no"/>mentator dicit quod non fit minus nisi per  
+        <lb ed="#J" n="51"/>admixtionem contrarij. Oppositum. secun 
+        <lb ed="#J" n="52"/>do coeli commento. 13. Soluitur. in 
+        haben<lb ed="#J" n="53" break="no"/>tibus contrariam secundum viam Commen. remissio 
+        <lb ed="#J" n="54"/>per admixtionem contrarij fit, &amp; per 
+        oppo<lb ed="#J" n="55" break="no"/>suum intensio per remotionem a contrario 
+        <lb ed="#J" n="56"/>iuxta illud Philosophi, illud est albius, quod 
+        <!--Averroes_Physica_JuntSecunda_04-1006.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>est nigro impermixtius. in carentibus vero 
+        <lb ed="#J" n="58"/>contrario, sicut est lumen, &amp; alia 
+        huiusmo<lb ed="#J" n="59" break="no"/>di, non est sic Et ideo Com. in com. 13. 2. de 
+        <lb ed="#J" n="60"/>coelo iam allegato inquit. &amp; non sequitur, 
+        <lb ed="#J" n="61"/>vt remiffio sit semper ex mixtione 
+        contra<lb ed="#J" n="62" break="no"/>ril, sicut dixit Alex. in multis locis. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e567">
+               <head xml:id="gGhHfF-d1e304-Hd1e569">Contradictio 5</head>
+               <p xml:id="gGhHfF-d1e304-d1e572">
+                  <lb ed="#J" n="63"/>Quinta contradi. est in comen. 2I. Dicit 
+        <lb ed="#J" n="64"/>generationem non esse motum, quia forma 
+        <lb ed="#J" n="65"/>est indiuisibilis. Sed oppositum videtur sen 
+        <lb ed="#J" n="66"/>tire de formis elementorupi. 3. coeli com. S7. 
+        <lb ed="#J" n="67"/>vbi tenet quod intenduntur &amp; remittuntur. 
+        <lb ed="#J" n="68"/>Soluitur. de ratione motus duae 
+        conditio<lb ed="#J" n="69" break="no"/>nes requiruntur. vna quod subiectum sit ens in 
+        <lb ed="#J" n="70"/>actu, alia quod forma sit diuisibilis. vnde 
+        quin<lb ed="#J" n="71" break="no"/>to. physicorum probatur ad relationem non 
+        <lb ed="#J" n="72"/>esse motum, &amp; eriam septimo physicorum 
+        <lb ed="#J" n="73"/>de prima specie qualitatis. Et commentator 
+        <lb ed="#J" n="74"/>6. physico. commento S. probat quod ad situm 
+        <lb ed="#J" n="75"/>non est motus, quia est relatio, &amp; relatio com 
+        <lb ed="#J" n="76"/>sistit in indiuisibili. Requiritur etiam quod  
+        <lb ed="#J" n="77"/>subiectum sit in actu. quinto physicorum 
+        <lb ed="#J" n="78"/>tex. commento. S. Et propter hoc in formis 
+        <lb ed="#J" n="79"/>eductis de potentia materiae, quaedam sunt 
+        <lb ed="#J" n="80"/>perfectae, non intensibiles, neque 
+        remissibi<lb ed="#J" n="81" break="no"/>les, sicut sunt formae mixtorum: &amp; de istis 
+        <lb ed="#J" n="82"/>maxime verificatur dictum 
+        Commentato<lb ed="#J" n="83" break="no"/>ris, quod generatio talium non est motus, quia 
+        <lb ed="#J" n="84"/>tales sunt indiuisibiles, idest non successiue 
+        <lb ed="#J" n="85"/>acquisibiles, sed per minima acquirantur. 
+        <lb ed="#J" n="86"/>formae autem elementorum sunt mediae 
+        <lb ed="#J" n="87"/>inter substantiam &amp; accidens secundum 
+        <lb ed="#J" n="88"/>Commentatorem tertio coeli commento 
+        <lb ed="#J" n="89"/>S7. &amp; tales partibiliter acquiruntur, &amp; 
+        sue<lb ed="#J" n="90" break="no"/>cessiue: tamen earum genetatio non est mo 
+        <lb ed="#J" n="91"/>tus, quia subiectum non est ens in actu. 
+        Vi<lb ed="#J" n="92" break="no"/>de quae scripsi primo physicorum commen 
+        <lb ed="#J" n="93"/>to sexagesimosecundo, 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e643">
+               <head xml:id="gGhHfF-d1e304-Hd1e645">Contradictio 6</head>
+               <p xml:id="gGhHfF-d1e304-d1e648">
+                  <lb ed="#J" n="94"/>Sexta contradictio est in commen. 11. 
+        <lb ed="#J" n="95"/>Dicit Commentator quod vltima non sunt in  
+        <lb ed="#J" n="96"/>loco, nisi per accidens, non essentialiter. Sed  
+        <lb ed="#J" n="97"/>hnius oppositum ipse scribit primo de 
+        ge<lb ed="#J" n="98" break="no"/>neratione comment. 29. vbi habet quod lineg, 
+        <lb ed="#J" n="99"/>superficies, &amp; puncta non sunt in loco, 
+        ne<lb ed="#J" n="100" break="no"/>que secundum se, neque secundum accidens. 
+        <lb ed="#J" n="101"/>poluitur. aliquid moueri per accidens con 
+        <lb ed="#J" n="102"/>tingit dupliciter, pure, &amp; non pure. 
+        Appel<lb ed="#J" n="103" break="no"/>o illud moueri per accidenspure, quod prae 
+        <lb ed="#J" n="104"/>cise mouetur ad motum alterius, &amp; 
+        nul<lb ed="#J" n="105" break="no"/>lo modo potest per se moueri. &amp; isto 
+        mo<lb ed="#J" n="106" break="no"/>do intelligitur dictum Com, hic in commen. 
+        <lb ed="#J" n="107"/>12. quando dicit, quod vltima monentur per  
+        <lb ed="#J" n="108"/>accidens, scilicet pure, quia praecise mouentur 
+        <lb ed="#J" n="109"/>ad motum illius, cuius sunt vltima. Alio 
+        <lb ed="#J" n="110"/>modo aliquid dicitur non pure per accidens 
+        <lb ed="#J" n="111"/>moueri, &amp; est illud, quod mouetur ad 
+        mo<lb ed="#J" n="112" break="no"/>tum alterius. quod tamen, si separatum fuerit 
+        <!--Averroes_Physica_JuntSecunda_04-1007.xml-->
+        <pb ed="#J" n="500-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>ab eo, ad cuius motum dicitur moueri, 
+        po<lb ed="#J" n="2" break="no"/>terit per se moueri, sicut motus partis ad 
+        <lb ed="#J" n="3"/>motum totius. quia pars separata a toto po 
+        <lb ed="#J" n="4"/>test per se moueri, sicut patet. 4. phylicorum 
+        <lb ed="#J" n="5"/>commento. 32. &amp; quinto physico. commen 
+        <lb ed="#J" n="6"/>to primo, &amp; primo de anima commento. 37 
+        <lb ed="#J" n="7"/>Et propter hoc dixit Commentator sexto phi 
+        <lb ed="#J" n="8"/>sico. commento n6. quod motus partis in to 
+        <lb ed="#J" n="9"/>to non est motus pure per accidens. forma 
+        <lb ed="#J" n="10"/>liter igitur soluentes, dicamus quod quinto 
+        <lb ed="#J" n="11"/>physico. commen. 12. loquitur de accidente 
+        <lb ed="#J" n="12"/>puro, primo de generatione. 29. loquitur 
+        <lb ed="#J" n="13"/>de accidente non puro. Aut aliter solui 
+        <lb ed="#J" n="14"/>potest, quod Commentator primo de ge. 
+        <lb ed="#J" n="15"/>neratione loquitur ex sententia Platonis, 
+        <lb ed="#J" n="16"/>contra quem arguit ibi Philosobus. Plato 
+        <lb ed="#J" n="17"/>enim posuit mathematica esse subiecta 
+        cor<lb ed="#J" n="18" break="no"/>porum naturalium. &amp;, quia ipse posuit 
+        ta<lb ed="#J" n="19" break="no"/>lia, nedum secundum intellectum, verunt 
+        <lb ed="#J" n="20"/>etiam secundum esse separata a 
+        sensibili<lb ed="#J" n="21" break="no"/>bus, videtur sequi ergo talia nullo modo in 
+        <lb ed="#J" n="22"/>loco esse, neque per se, neque per accidens, 
+        <lb ed="#J" n="23"/>realiter loquendo. in quinto autem 
+        physi<lb ed="#J" n="24" break="no"/>corum loquitur secundum sententiam 
+        Ari<lb ed="#J" n="25" break="no"/>stoteles, &amp; dicin quod talia sunt in loco per  
+        <lb ed="#J" n="26"/>accidens, quia locantur ad locationem sui 
+        <lb ed="#J" n="27"/>subiecti, quod est per se in loco. Et ista 
+        so<lb ed="#J" n="28" break="no"/>lutio non est remota a veritate secundum 
+        <lb ed="#J" n="29"/>rem ipsam. tamen, sicut dicit Commenta. 
+        pri<lb ed="#J" n="30" break="no"/>mo de anima com. 26. vniuersaliter hodie 
+        <lb ed="#J" n="31"/>non possumus intelligere opiniones 
+        Anti<lb ed="#J" n="32" break="no"/>quorum, quia non sunt notae apud nos. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e769">
+               <head xml:id="gGhHfF-d1e304-Hd1e771">Contradictio 7</head>
+               <p xml:id="gGhHfF-d1e304-d1e774">
+                  <lb ed="#J" n="33"/>Septima contradictio est in commen. 3A. 
+        <lb ed="#J" n="34"/>Dicit Commentator tempus constituere 
+        mo<lb ed="#J" n="35" break="no"/>tum. Huius tamen oppositum habetur su 
+        <lb ed="#J" n="36"/>pra in hoc quinto commento tertio, vbi 
+        enu<lb ed="#J" n="37" break="no"/>merans ea, quae constituunt essentiam mo 
+        <lb ed="#J" n="38"/>tus, non enumerat tempus. Respondetur, 
+        <lb ed="#J" n="39"/>quod refert consyderare motum in sua qui 
+        <lb ed="#J" n="40"/>ditate, &amp; refert consyderare ipsum, quo ac 
+        <lb ed="#J" n="41"/>suam vnitatem consequentem ipsum. Et 
+        <lb ed="#J" n="42"/>tunc dicimus, quod motus consyderatus 
+        <lb ed="#J" n="43"/>quiditatiue constituitur in sui diuisione ex 
+        <lb ed="#J" n="44"/>tribus &amp; talia sunt subiectum, terminus ad 
+        <lb ed="#J" n="45"/>quem, &amp; termiuus a quo. Vnde Com. sic 
+        con<lb ed="#J" n="46" break="no"/>syderauit motum, &amp; Philosophus. 3. physic, 
+        <lb ed="#J" n="47"/>tex. commen. tertio, nam ipse dicit ibi, quos 
+        <lb ed="#J" n="48"/>substantia motus constituitur ex istis 
+        tri<lb ed="#J" n="49" break="no"/>bus causis existentibus in eo non 
+        extrinse<lb ed="#J" n="50" break="no"/>tis. &amp; ideo non numerauit motorem, aut 
+        <lb ed="#J" n="51"/>tempus, vt ipse habet ibi. Sed consyderatio 
+        <lb ed="#J" n="52"/>motus, quo ad sui vnitatem numeralem, 
+        <lb ed="#J" n="53"/>bene concernit vnitatem temporis, &amp; 
+        mo<lb ed="#J" n="54" break="no"/>toris &amp; sic consyderatur motus ab Auerro 
+        <lb ed="#J" n="55"/>&amp; ab Aristoteles. quinto physicorum. 3A. 
+        <lb ed="#J" n="56"/>quando dixit quod ad vnitatem numera¬ 
+        <!--Averroes_Physica_JuntSecunda_04-1007.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>lem motus requintur vnitas temporis. &amp; sic 
+        <lb ed="#J" n="58"/>etiam consyderauit motum in octauo 
+        phy<lb ed="#J" n="59" break="no"/>tex. commen. S2. vbi dixit motum 
+        proie<lb ed="#J" n="60" break="no"/>ctorum. non esse continuum, sed videri com 
+        <lb ed="#J" n="61"/>tinuum. Et reddens causam dixit. non enim vnum 
+        <lb ed="#J" n="62"/>est mouens. vbi expresse patet motoris 
+        vni<lb ed="#J" n="63" break="no"/>tatem requiri ad continuitatem, &amp; vnitatem 
+        <lb ed="#J" n="64"/>motus, quae tamen non sunt de quiditate 
+        <lb ed="#J" n="65"/>motus, sicut patet consyderanti. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e853">
+               <head xml:id="gGhHfF-d1e304-Hd1e855">Contradictio 8</head>
+               <p xml:id="gGhHfF-d1e304-d1e858">
+                  <lb ed="#J" n="66"/>Octaua contradictio est in 39. commento 
+        <lb ed="#J" n="67"/>Ad vnitatem numeralem motus dicit tria 
+        <lb ed="#J" n="68"/>requiri: &amp; haec sunt vnitas subiecti, vnitas 
+        <lb ed="#J" n="69"/>mobilis, &amp; vnitas termini ad quem. Sed hu 
+        <lb ed="#J" n="70"/>ius oppositum videtur. E. physic. tex. com. Si. 
+        <lb ed="#J" n="71"/>vbi habetur quod vltra haec requiritur 
+        vni<lb ed="#J" n="72" break="no"/>tas motoris. Ad hoc dicitur quod Aristot. 
+        <lb ed="#J" n="73"/>non posuit hic vnitatem motoris requiri 
+        <lb ed="#J" n="74"/>ad vnitatem temporis, quia nondum decla 
+        <lb ed="#J" n="75"/>ratum est vtrum omne motum ab alio sit 
+        <lb ed="#J" n="76"/>motum. &amp; ideo tacuit illud differens illud 
+        <lb ed="#J" n="77"/>vsque ad. S. phy. vtrum autem in aliquo 
+        ca<lb ed="#J" n="78" break="no"/>su possit esse vnus motus a pluribus 
+        moto<lb ed="#J" n="79" break="no"/>ribus pertinet ad octauum physico. sed pro 
+        <lb ed="#J" n="80"/>nunc dimittatur. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e894">
+               <head xml:id="gGhHfF-d1e304-Hd1e896">Contradictio 9</head>
+               <p xml:id="gGhHfF-d1e304-d1e899">
+                  <lb ed="#J" n="81"/>Nona contradictio est in eodem 
+        commen<lb ed="#J" n="82" break="no"/>to. 36. &amp; commento sequenti. Quia in hoc 
+        <lb ed="#J" n="83"/>commento dicit tria illa requiri ad 
+        vnita<lb ed="#J" n="84" break="no"/>tem motus, scilicet tempus, subiectum &amp;  
+        <lb ed="#J" n="85"/>terminum. Sed commen. sequenti solum 
+        <lb ed="#J" n="86"/>subiectum &amp; terminum requiri dicit. Nisi 
+        <lb ed="#J" n="87"/>esset, quod vnitas motus magis intime 
+        de<lb ed="#J" n="88" break="no"/>pendet ab vnitate subiecti, cum subiectum 
+        <lb ed="#J" n="89"/>notus ponatur in sua definitione, &amp; etiam 
+        <lb ed="#J" n="90"/>terminus ad quem, qui est de substantia 
+        <lb ed="#J" n="91"/>motus: quia ab ipso sumit speciem, cunt 
+        <lb ed="#J" n="92"/>non differat ab ipso, nisi sicut imperfectum 
+        <lb ed="#J" n="93"/>a perfecto. tertio physicorum commento. 4. 
+        <lb ed="#J" n="94"/>motus autem a tempore dependet tanquam 
+        <lb ed="#J" n="95"/>ab aliquo extrinseco, &amp; non quiditatur per  
+        <lb ed="#J" n="96"/>ipsum, idest tempus non est de quiditate 
+        <lb ed="#J" n="97"/>eius, sicut dicit Commentator hic in 
+        commen<lb ed="#J" n="98" break="no"/>to trigesimo quinto, quod accidit naturae 
+        <lb ed="#J" n="99"/>motus, quod sit in tempore, non quod 
+        mo<lb ed="#J" n="100" break="no"/>tus quiditetur per tempus, idest quiditatiue 
+        <lb ed="#J" n="101"/>constituatur per tempus &amp; ideo tacuit Com. 
+        <lb ed="#J" n="102"/>mentator in commento sequenti tempus, quia 
+        <lb ed="#J" n="103"/>solum consyderauit motum, quo ad 
+        prae<lb ed="#J" n="104" break="no"/>licata, quae constituunt ipsum 
+        quiditati<lb ed="#J" n="105" break="no"/>ue. licet autem subiectum non sit de 
+        quidi<lb ed="#J" n="106" break="no"/>ate accidenti, sufficit tamen, quod si: 
+        de<lb ed="#J" n="107" break="no"/>latiuum quiditatis eius. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e962">
+               <head xml:id="gGhHfF-d1e304-Hd1e964">Contradictio 10</head>
+               <p xml:id="gGhHfF-d1e304-d1e967">
+                  <lb ed="#J" n="108"/>Decima contradictio est in commento. 37. 
+        <lb ed="#J" n="109"/>Dicit omnem motum continuum esse. Hu 
+        <lb ed="#J" n="110"/>ius tamen oppositum dicit. 3. physi. 
+        commen<lb ed="#J" n="111" break="no"/>6. &amp;. S. physico. commento. 13. vbi habet 
+        mo<lb ed="#J" n="112" break="no"/>tum augnientationis non esse continuum. 
+        <!--Averroes_Physica_JuntSecunda_04-1008.xml-->
+        <pb ed="#J" n="500-v"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>Soluitur. motui, sub ratione, qua motus, 
+        <lb ed="#J" n="2"/>non repugnare continuitatem, sicut talpa 
+        <lb ed="#J" n="3"/>inquantum animal non repugnat visioe 
+        ta<lb ed="#J" n="4" break="no"/>men motui applicato ad materiam aliquam 
+        <lb ed="#J" n="5"/>sensibilem determinatam stat 
+        continuita<lb ed="#J" n="6" break="no"/>tem sibi repugnare. sicut est in rasu de 
+        mo<lb ed="#J" n="7" break="no"/>tu augmenti, qui non potest esse continuus, 
+        <lb ed="#J" n="8"/>sicut probat Com. in locis allegatis. nihil autem 
+        <lb ed="#J" n="9"/>prohibet vnum &amp; idem praedicatum vni &amp;  
+        <lb ed="#J" n="10"/>eidem rei non repugnare sub ratione communi, 
+        <lb ed="#J" n="11"/>&amp; sub ratione generis, quod tamen 
+        repu<lb ed="#J" n="12" break="no"/>gnabit illi sub ratione speciali, sicut talpa, 
+        <lb ed="#J" n="13"/>vt talpa, non potest videre: sed vt animal non 
+        <lb ed="#J" n="14"/>sibi repugnat. Aristote. autem in hoc quin 
+        <lb ed="#J" n="15"/>to physico. &amp; in. 6. consyderat motum in  
+        <lb ed="#J" n="16"/>communi, non applicando ipsum ad aliqua 
+        <lb ed="#J" n="17"/>mobilia determinata. Et ideo omnia, quae  
+        <lb ed="#J" n="18"/>verificantur de motu in istis locis, verifican 
+        <lb ed="#J" n="19"/>tur secundum eius communitatem, quae tamen com 
+        <lb ed="#J" n="20"/>munitas non repugnat rationibus 
+        speciali<lb ed="#J" n="21" break="no"/>bus aliorum motuum. Vide pro hac 
+        solu<lb ed="#J" n="22" break="no"/>tione in simili Auerroim copiose. 6. 
+        phy<lb ed="#J" n="23" break="no"/>sico. commento 19. vide. 7. physico. com 
+        <lb ed="#J" n="24"/>mento. 2. in simili de coelo, inquantum coe 
+        <lb ed="#J" n="25"/>am, &amp; inquantum corpus. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e304-Dd1e1042">
+               <head xml:id="gGhHfF-d1e304-Hd1e1044">Contradictio 11</head>
+               <p xml:id="gGhHfF-d1e304-d1e1047">
+                  <lb ed="#J" n="26"/>Vndecima contradictio est in com. Asi. 
+        <lb ed="#J" n="27"/>Dicit Auer. terminum a quo non esse de 
+        <lb ed="#J" n="28"/>substantia motus, sed esse accidens motui. 
+        <lb ed="#J" n="29"/>Sed nos oppositum inuenimus in dictis eius 
+        <lb ed="#J" n="30"/>supra in com. 3. huius quinti. Soluitur. 
+        termi<lb ed="#J" n="31" break="no"/>nus, a quo dupliciter potest comparari mo 
+        <lb ed="#J" n="32"/>tui. Vno modo absolute: &amp; sic est de quidi 
+        <lb ed="#J" n="33"/>tate motus, cum ponatur in eius 
+        definitio<lb ed="#J" n="34" break="no"/>ne. motus enim fit de affirmatio in affirmatum. 
+        <lb ed="#J" n="35"/>Alio modo respectiue, videlicet in compa 
+        <lb ed="#J" n="36"/>ratione ad terminum, ad quem. Et sic 
+        ter<lb ed="#J" n="37" break="no"/>minus a quo est accidens respectu motus 
+        <lb ed="#J" n="38"/>in respectu termini ad quem. motus. enim cum 
+        <lb ed="#J" n="39"/>termino ad quem identificantur &amp; 
+        repo<lb ed="#J" n="40" break="no"/>nuntur in specie, non autem per terminum 
+        <lb ed="#J" n="41"/>a quo. terminus enim a quo abiicitur. Sumitur 
+        <lb ed="#J" n="42"/>igitur hic accidens: prout omne illud, quod 
+        <lb ed="#J" n="43"/>non est aeque intimum, sicut aliud. &amp; quia 
+        <lb ed="#J" n="44"/>terminus a quo non est aeque intimus 
+        mo<lb ed="#J" n="45" break="no"/>tui, sicut terminus ad quenm, ideo nomen 
+        <lb ed="#J" n="46"/>occidentis accepit. &amp; hoc est de mente Com. 
+        <lb ed="#J" n="47"/>intra in com. 49. vbi dicit quod licet con¬ 
+        <lb ed="#J" n="48"/>trarietas in motibus sit tam ex 
+        <lb ed="#J" n="49"/>termino a quo, quam ex tex 
+        <lb ed="#J" n="50"/>mino ad quem, magis 
+        <lb ed="#J" n="51"/>tamen motus sunt 
+        <lb ed="#J" n="52"/>contraril ex 
+        ter<lb ed="#J" n="53" break="no"/>mino ad quem 
+        <lb ed="#J" n="54"/>quam ex ter  
+        <lb ed="#J" n="55"/>mino a 
+        <lb ed="#J" n="56"/>quo 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

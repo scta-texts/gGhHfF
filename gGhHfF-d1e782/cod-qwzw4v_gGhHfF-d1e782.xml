@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 7</title>
+            <author ref="#per-sdv3av">Marcantonio Zimara</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 7</title>
+               <date when="2021-02-15">February 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="501-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="gGhHfF-d1e782">
+            <head xml:id="gGhHfF-d1e782-Hd1e104">Liber 7</head>
+            <p xml:id="gGhHfF-d1e782-d1e107">
+               <lb ed="#J" n="14"/>SOLVTIONES 
+      <lb ed="#J" n="15"/>contradictionum in dictis 
+      <lb ed="#J" n="16"/>Auerrois, 
+      <lb ed="#J" n="17"/>Super Septimo Physicorum.
+    </p>
+            <div xml:id="gGhHfF-d1e782-Dd1e118">
+               <head xml:id="gGhHfF-d1e782-Hd1e120">Contradictio 1</head>
+               <p xml:id="gGhHfF-d1e782-d1e123">
+                  <lb ed="#J" n="18"/>Dicit Commentator super com 
+        <lb ed="#J" n="19"/>mento primo &amp; quarto 
+        septi<lb ed="#J" n="20" break="no"/>mi physi. quod primum motum 
+        <lb ed="#J" n="21"/>in animali est cor. Huius 
+        ta<lb ed="#J" n="22" break="no"/>men oppositum inuenimus 
+        <lb ed="#J" n="23"/>primo de anima commento 37. vbi dicit, 
+        <lb ed="#J" n="24"/>quod sunt pedes. Soluitur. principium, &amp;  
+        <lb ed="#J" n="25"/>sons totius sensationis &amp; motus est ipsum 
+        <lb ed="#J" n="26"/>cor: sicut probat Philosophus in. 2. de 
+        parti<lb ed="#J" n="27" break="no"/>bus animalium cap. 10. &amp; in libro de sensu 
+        <lb ed="#J" n="28"/>&amp; sensi. &amp; in. 3. de anima expresse habet 
+        cor<lb ed="#J" n="29" break="no"/>esse onginale principium omnis motus 
+        exi<lb ed="#J" n="30" break="no"/>stentis in animali, sicut patet in tex. com. 3S. 
+        <lb ed="#J" n="31"/>&amp; in libro de motibus animalium. Et ista 
+        <lb ed="#J" n="32"/>fuit sententia omnium Antiquorum 
+        Peri<lb ed="#J" n="33" break="no"/>pateticorum, quicquid dicant Moderni mi 
+        <lb ed="#J" n="34"/>scentes, &amp; confundentes opinionem Peripa 
+        <lb ed="#J" n="35"/>tericam cum opinione Medicorum. videant 
+        <lb ed="#J" n="36"/>Alexandrum in paraphrasi de anima: videant 
+        <lb ed="#J" n="37"/>Themistium. &amp; Simolicium in. 2. de anima 
+        <lb ed="#J" n="38"/>&amp; videbunt, nunquid cerebrum sit 
+        princi<lb ed="#J" n="39" break="no"/>pium motus vel sensus de intentione Aris. 
+        <lb ed="#J" n="40"/>Dico igitur cor esse principium motus 
+        ini<lb ed="#J" n="41" break="no"/>tiatiuu, &amp; ei motus attribuitur vt origini &amp; 
+        <lb ed="#J" n="42"/>vt principi: pedibus autem attribuitur tanquam in 
+        <lb ed="#J" n="43"/>strumento, quo ad extra manifestetur, &amp;  
+        <lb ed="#J" n="44"/>executioni demandetur. &amp; sic teneo cum 
+        <lb ed="#J" n="45"/>Aristotele &amp; peritissimis Peripateticis esse 
+        <lb ed="#J" n="46"/>de qualibet sensatione, siue sit sensuum ex 
+        <lb ed="#J" n="47"/>teriorum siue sit sensuum interiorum, quod 
+        <lb ed="#J" n="48"/>quaelibet talis sit a corde, tanquam a 
+        radi<lb ed="#J" n="49" break="no"/>cali principio. &amp; ista est indubitata 
+        senten<lb ed="#J" n="50" break="no"/>tia Aristotelis. licet Auerro. pro parte, non 
+        <lb ed="#J" n="51"/>ex toto attigerit veritatem, sicut alii 
+        anti<lb ed="#J" n="52" break="no"/>quiores. Moderni autem in hoc aberrant 
+        <!--Averroes_Physica_JuntSecunda_04-1010.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="53"/>manifeste, &amp; non est curabilis aegritudo eo 
+        <lb ed="#J" n="54"/>rum: quia sunt assueri in sermonibus faliis, 
+        <lb ed="#J" n="55"/>&amp; non possunt assentire veris principiis. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e782-Dd1e213">
+               <head xml:id="gGhHfF-d1e782-Hd1e215">Contradictio 2</head>
+               <p xml:id="gGhHfF-d1e782-d1e218">
+                  <lb ed="#J" n="56"/>Secunda contradictio est in commento 
+        <lb ed="#J" n="57"/>Vndecimo Commentator habet qualitates 
+        <lb ed="#J" n="58"/>sensibiles esse differentias corporum 
+        con<lb ed="#J" n="59" break="no"/>similium. Et tamen oppositum habet ipse 
+        <lb ed="#J" n="60"/>in quinto physicorum commento decimo, 
+        <lb ed="#J" n="61"/>&amp; octauo metaphysicorum commento. 3. 
+        <lb ed="#J" n="62"/>contra Alexandrum. Modemi voluerunt 
+        <lb ed="#J" n="63"/>grauitatem &amp; leuitatem esse formas 
+        sub<lb ed="#J" n="64" break="no"/>stantiales elementorum, moti forte propter. 
+        <lb ed="#J" n="65"/>authoritatem allegatam hic ex vndecimo 
+        <lb ed="#J" n="66"/>commento. &amp; ex authoritate ipsius 
+        Com<lb ed="#J" n="67" break="no"/>mentatoris secundo de anima male intelle 
+        <lb ed="#J" n="68"/>cta, commento. 106. vbi habet graue &amp; 
+        le<lb ed="#J" n="69" break="no"/>ue esse substantiam. Sed ista opinio est 
+        pu<lb ed="#J" n="70" break="no"/>rus error, quia quod vni est accidens 
+        alteri<lb ed="#J" n="71" break="no"/>non est substantia, in his, quae vniuoce 
+        di<lb ed="#J" n="72" break="no"/>cuntur. sed grauitas &amp; leuitas elementi est 
+        <lb ed="#J" n="73"/>eiusdem rationis cum grauitate &amp; leuitate 
+        <lb ed="#J" n="74"/>mixti, quod patet ex operationibus 
+        essen<lb ed="#J" n="75" break="no"/>tialibus ipsorum. cum igitur in mixtis sint 
+        <lb ed="#J" n="76"/>accidentia, quomodo in elementis erunt 
+        <lb ed="#J" n="77"/>substantiae: ita arguit Commentator 
+        con<lb ed="#J" n="78" break="no"/>tra Alexandium quinto physicorum 
+        com<lb ed="#J" n="79" break="no"/>mento decimo, &amp; octauo metaphysi. 
+        com<lb ed="#J" n="80" break="no"/>mento. 3. Sed dicunt quod rationes 
+        Com<lb ed="#J" n="81" break="no"/>mentatoris, ibi procedunt de aliis 
+        qualita<lb ed="#J" n="82" break="no"/>tibus, non autem de graui &amp; leui. Contra. 
+        <lb ed="#J" n="83"/>Philosophus secundo de generatione. textu 
+        <lb ed="#J" n="84"/>commenti octaui enumerat qualitates 
+        ele<lb ed="#J" n="85" break="no"/>mentorum, &amp; similiter in secundo de 
+        Par<lb ed="#J" n="86" break="no"/>tibus animalium capitulo primo, &amp; ibi po 
+        <lb ed="#J" n="87"/>nit grauitatem &amp; leuitatem. Amplius, quo 
+        <lb ed="#J" n="88"/>modo soluetur ratio facta:s aeque enim 
+        ra<lb ed="#J" n="89" break="no"/>io procedit de grauitate &amp; leuitate, sicut 
+        <lb ed="#J" n="90"/>de aliis qualitatibus. &amp; quomodocunque sol 
+        <lb ed="#J" n="91"/>uere volueris, ita soluam pro Alexandro 
+        ra<lb ed="#J" n="92" break="no"/>tionem Auerrois. Amplius, forma 
+        substan<lb ed="#J" n="93" break="no"/>tialis non est sensibilis sensu exteriori: sed  
+        <lb ed="#J" n="94"/>grauitas &amp; leuitas sentiuntur sensu tactus, 
+        <lb ed="#J" n="95"/>sicut patet secundo de anima, tex. commen 
+        <lb ed="#J" n="96"/>to9. ergo, &amp;c. Soluunt quod forma 
+        substantia<lb ed="#J" n="97" break="no"/>lis est sensibilis a sensibus hominis. Nam se 
+        <lb ed="#J" n="98"/>cundum Auer. in commen. super libro de 
+        <lb ed="#J" n="99"/>sensu &amp; sensi. homo comprehendit 
+        diffe<lb ed="#J" n="100" break="no"/>rentias rerum, &amp; earum intentiones proprias 
+        <lb ed="#J" n="101"/>quae sunt in re sensata, qua si medullam de 
+        <lb ed="#J" n="102"/>fructu: animalia autem bruta 
+        comprehen<lb ed="#J" n="103" break="no"/>dunt ea, quae sunt extra, quasi cortices 
+        fru<lb ed="#J" n="104" break="no"/>ctuum. Sed contra. quia sensus brutorum 
+        <lb ed="#J" n="105"/>etiam sentiunt grauitatem &amp; leuitatem. 
+        <lb ed="#J" n="106"/>nam asinus magno pondere oppressus 
+        do<lb ed="#J" n="107" break="no"/>set: quod non esset. nisi grauitatem sensu ta 
+        <lb ed="#J" n="108"/>ctus sentiret, igitur gtauitas est simpliciter 
+        <!--Averroes_Physica_JuntSecunda_04-1011.xml-->
+        <pb ed="#J" n="502-r"/>
+                  <cb ed="#J" n="a"/>
+                  <lb ed="#J" n="1"/>accidens. sed quaelibet grauitas est vnius &amp; 
+        <lb ed="#J" n="2"/>eiusdem rationis essentialis. si igitur quod 
+        <lb ed="#J" n="3"/>vere est, nulli accidit, si grauitas &amp; leuitas 
+        <lb ed="#J" n="4"/>in elementis essent formae substantiales: non 
+        <lb ed="#J" n="5"/>ligitur essent accidentia in mixtis. Multa 
+        <lb ed="#J" n="6"/>etiam alia inconuenientia dimirto breuita 
+        <lb ed="#J" n="7"/>tis causa. nam tunc substantia substantia 
+        <lb ed="#J" n="8"/>per se primo coatrariaretur, &amp; multa huius 
+        <lb ed="#J" n="9"/>modi. Dicamus igitur differentias vltimas 
+        <lb ed="#J" n="10"/>corporum simplicium esse nobis ignotas, 
+        <lb ed="#J" n="11"/>&amp; circumloquimur eas per suas proprieta 
+        <lb ed="#J" n="12"/>tes. &amp; hoc colligitur ex sententia 
+        Philoso<lb ed="#J" n="13" break="no"/>phi in octauo physicorum in textu commen. 
+        <lb ed="#J" n="14"/>12. vbi habet quod, essentia grauis est vbica 
+        <lb ed="#J" n="15"/>ri inferius, &amp; essentia leuis est vbicari 
+        supe<lb ed="#J" n="16" break="no"/>rius. &amp; tamen supra. 36. dixit moueri 
+        sur<lb ed="#J" n="17" break="no"/>sum &amp; deorsum esse actiones grauium &amp;  
+        <lb ed="#J" n="18"/>leuium naturales. quod non contigisset, nisi 
+        <lb ed="#J" n="19"/>esset verum, quod diximus. &amp; hoc est etiam 
+        <lb ed="#J" n="20"/>de intentione Auerro. octauo 
+        metaphysi<lb ed="#J" n="21" break="no"/>corum commen. 3. &amp;. 7. metaphysi. commen 
+        <lb ed="#J" n="22"/>Tt. Grauitas igitur &amp; leuitas sunt 
+        differen<lb ed="#J" n="23" break="no"/>tiae circum locutiuae elementorum, &amp; non 
+        <lb ed="#J" n="24"/>sunt verae formae substantiales illorum, 
+        si<lb ed="#J" n="25" break="no"/>cut fingunt Moderni. Quomodo autem 
+        <lb ed="#J" n="26"/>authoritas Commenta. in secundo de 
+        ani<lb ed="#J" n="27" break="no"/>ma soluatur, statim patebit in sequenti com 
+        <lb ed="#J" n="28"/>tradictione. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e782-Dd1e403">
+               <head xml:id="gGhHfF-d1e782-Hd1e405">Contradictio 3</head>
+               <p xml:id="gGhHfF-d1e782-d1e408">
+                  <lb ed="#J" n="29"/>Tertia contradictio est in eodem 
+        com<lb ed="#J" n="30" break="no"/>men. Dicit grauitatem &amp; leuitatem esse 
+        qua<lb ed="#J" n="31" break="no"/>litates tangibiles. Oppositum habet secundo 
+        <lb ed="#J" n="32"/>de anima. commen. 10b. vbi dicit quod sunt 
+        <lb ed="#J" n="33"/>substantiae. &amp;. 3. metaphysi. commen. 16. 
+        di<lb ed="#J" n="34" break="no"/>cit quod sunt quantitates. Soluitur. formali 
+        <lb ed="#J" n="35"/>ter qualitates sunt, sicut dicit Philosophos. 
+        <lb ed="#J" n="36"/>a. de generatione, &amp; secundo de partibus 
+        <lb ed="#J" n="37"/>animalium sunt substantiae, imitatione, &amp;  
+        <lb ed="#J" n="38"/>similitudine quo ad modum imutandi sen 
+        <lb ed="#J" n="39"/>sum. Nam sicut substantia non immutat 
+        <lb ed="#J" n="40"/>sensum, nisi mediantibus accidentibus, sic 
+        <lb ed="#J" n="41"/>grauitas &amp; leuitas non immutant sensum 
+        <lb ed="#J" n="42"/>tactus, nisi mediante motu: &amp; sic assimilan 
+        <lb ed="#J" n="43"/>tur substantiae, &amp; non sunt illae, sed sicut 
+        il<lb ed="#J" n="44" break="no"/>lae. In. 3. meraphysi. commen. 16. dicit eas esse 
+        <lb ed="#J" n="45"/>quantitates secundaria intentione, sicut ip 
+        <lb ed="#J" n="46"/>se glosat ibi. nam diuiduntur eade diuisione, 
+        <lb ed="#J" n="47"/>qua magnitudo diuiditur, iuxta illud 
+        Phi<lb ed="#J" n="48" break="no"/>losophi primo coeli in maiori quanto est 
+        <lb ed="#J" n="49"/>maior virtus. tamen ipse in se sunt qualita. 
+        <lb ed="#J" n="50"/>tes naturales. Et sic sedatur contradictio. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e782-Dd1e460">
+               <head xml:id="gGhHfF-d1e782-Hd1e462">Contradictio 4</head>
+               <p xml:id="gGhHfF-d1e782-d1e465">
+                  <lb ed="#J" n="51"/>Quarta contradictio est in com. i9. 
+        Di<lb ed="#J" n="52" break="no"/>cit rarum &amp; densum esse qualitates. sed 
+        <lb ed="#J" n="53"/>quarto physi. S9. dxit quod sunt quantita 
+        <lb ed="#J" n="54"/>tes. Contradictio ista in quarto fuit soluta 
+        <lb ed="#J" n="55"/>in commento. S4. ideo recurre illuc. 
+      </p>
+            </div>
+            <div xml:id="gGhHfF-d1e782-Dd1e479">
+               <head xml:id="gGhHfF-d1e782-Hd1e481">Contradictio 5</head>
+               <p xml:id="gGhHfF-d1e782-d1e484">
+                  <lb ed="#J" n="56"/>Quinta contradictio est in commento 
+        <!--Averroes_Physica_JuntSecunda_04-1011.xml-->
+        <cb ed="#J" n="b"/>
+                  <lb ed="#J" n="57"/>vigesimo. Dicit quod scientia dignius est 
+        <lb ed="#J" n="58"/>vt sit ad aliquid. Oppositum dicit decimo 
+        <lb ed="#J" n="59"/>metaphysico. vigesimosecundo &amp; in 
+        praedi<lb ed="#J" n="60" break="no"/>amentis, vbi habet quod sit qualitas. Solui 
+        <lb ed="#J" n="61"/>tur. formaliter qualitas est, &amp; maxime in 
+        <lb ed="#J" n="62"/>nostro intellectu. ad eam tamen 
+        consequi<lb ed="#J" n="63" break="no"/>tur relatio ad scibile. 23. metaphysicorum 
+        <lb ed="#J" n="64"/>29. vtrum autem dictum Philosophi in  
+        <lb ed="#J" n="65"/>septimo physicorum tex. commen. 
+        vigesi<lb ed="#J" n="66" break="no"/>mo, &amp; sui Commentato. habeat locum 
+        se<lb ed="#J" n="67" break="no"/>cundum mentes eorum, vel secundum inen 
+        <lb ed="#J" n="68"/>tem Platonis, non est praesentis 
+        speculatio<lb ed="#J" n="69" break="no"/>nis. Alio tamen modo potest declarari 
+        <lb ed="#J" n="70"/>scientiam esse in capitulo relationis, tani 
+        <lb ed="#J" n="71"/>secundum mentem Platonis ponentis 
+        no<lb ed="#J" n="72" break="no"/>strum scire esse ieminisci, quam secundum 
+        <lb ed="#J" n="73"/>mentem Auerrois ponentis vnitatem 
+        in<lb ed="#J" n="74" break="no"/>tellectus colligari cum intentionibus 
+        ima<lb ed="#J" n="75" break="no"/>ginatis in intelligendo. Sed ista pertinent ad 
+        <lb ed="#J" n="76"/>tertium de anima, nec est opus praesentis ne 
+        <lb ed="#J" n="77"/>pocil. nam sufficit nobis magnifice 
+        Domi<lb ed="#J" n="78" break="no"/>ne in istis fragnientis intellectum tuum 
+        <lb ed="#J" n="79"/>ex citare, nec opus est calcaria subdere spon 
+        <lb ed="#J" n="80"/>te currenti.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
